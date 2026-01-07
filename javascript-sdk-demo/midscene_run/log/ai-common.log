@@ -1,2 +1,0 @@
-[2025-12-30T12:04:20.417+08:00] adaptBboxToRect [ 158, 720, 316, 869 ] 360 780 offset 0 0 limit 360 780 vlMode qwen3-vl
-[2025-12-30T12:04:20.417+08:00] adaptBboxToRect, result= { left: 57, top: 562, width: 57, height: 116 }
