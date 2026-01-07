@@ -1,0 +1,5 @@
+[2025-12-30T14:30:29.232+08:00] argv {
+  _: [ '.\\maps-navigation.yaml' ],
+  headed: true,
+  '$0': 'C:\\Users\\PC\\AppData\\Roaming\\npm\\node_modules\\@midscene\\cli\\bin\\midscene'
+}

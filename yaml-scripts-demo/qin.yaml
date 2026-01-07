@@ -1,0 +1,54 @@
+android:
+  deviceId: '6HJDU19621023136'
+
+model:
+  provider: openai
+  apiKey: ${MIDSCENE_MODEL_API_KEY}
+  baseURL: ${MIDSCENE_MODEL_BASE_URL}
+  model: ${MIDSCENE_MODEL_NAME}
+# 缓存配置
+agent:
+  cache:
+    id: "my-cache-test"
+    strategy: "read-write"
+tasks:
+  # 任务1：清除应用数据
+  - name: 清除应用数据
+    flow:
+      - runAdbShell: 'pm clear com.ccb.fintech.app.productions.xianga'
+  - name: 冷启动-秦务员
+    flow:
+      - aiAct: 打开 "秦务员测试" app
+      - sleep: 1500
+      - aiAct: 点击 "同意并继续" 按钮
+      - sleep: 600
+      #滑动三次页面
+      - runAdbShell: input swipe 900 1170 200 1170 400
+      - sleep: 600
+      - runAdbShell: input swipe 900 1170 200 1170 400
+      - sleep: 600
+      - runAdbShell: input swipe 900 1170 200 1170 400
+      - sleep: 600
+      - aiAct: 点击 "立即体验" 按钮
+      - sleep: 600
+      - aiAct: 点击 "去开启" 按钮
+      - aiAct: 点击 "仅使用期间允许" 按钮
+      - sleep: 600
+      - aiAssert: 页面存在 "立即登录" 按钮
+      - aiAct: 点击 "立即登录" 按钮
+      - aiAssert: 页面存在 "登录" 按钮
+      - aiAct: 输入账号13934385690,不输入密码
+      - sleep: 600
+      - aiAct: 点击"刷脸登录"按钮
+      - aiWaitFor: 页面存在“请阅读并同意以下条款”
+      - sleep: 600
+      - aiAct: 点击"同意并继续" 按钮
+      - sleep: 600
+      - aiWaitFor: 页面存在““秦务员”请求刷脸认证”
+      - aiAct: 点击“同意并继续” 按钮
+      - sleep: 600
+      - aiAct: 点击 "去开启" 按钮
+      - sleep: 600
+      - aiAct: 点击 "仅使用期间允许" 按钮
+      - sleep: 5000
+      - aiAssert: 页面存在 "登录成功" 文字

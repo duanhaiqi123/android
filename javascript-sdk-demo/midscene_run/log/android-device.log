@@ -1,0 +1,249 @@
+[2025-12-30T12:03:20.674+08:00] Initializing ADB with device ID: 6HJDU19621023136
+[2025-12-30T12:03:20.687+08:00] adb shell wm,size
+[2025-12-30T12:03:20.828+08:00] adb shell wm,size end
+[2025-12-30T12:03:20.829+08:00] Using Physical size: 1080x2340
+[2025-12-30T12:03:20.829+08:00] adb shell dumpsys input | grep SurfaceOrientation
+[2025-12-30T12:03:20.975+08:00] adb shell dumpsys input | grep SurfaceOrientation end
+[2025-12-30T12:03:20.975+08:00] Screen orientation: 0
+[2025-12-30T12:03:20.975+08:00] ADB initialized successfully 
+DeviceId: 6HJDU19621023136
+ScreenSize:
+  physical size: 1080x2340
+
+[2025-12-30T12:03:20.975+08:00] Launching app: https://www.ebay.com
+[2025-12-30T12:03:20.975+08:00] adb startUri https://www.ebay.com
+[2025-12-30T12:03:21.154+08:00] adb startUri https://www.ebay.com end
+[2025-12-30T12:03:21.154+08:00] Successfully launched: https://www.ebay.com
+[2025-12-30T12:03:26.215+08:00] screenshotBase64 begin
+[2025-12-30T12:03:26.216+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:26.216+08:00] adb takeScreenshot 
+[2025-12-30T12:03:26.743+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:26.743+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:26.743+08:00] Converting to base64
+[2025-12-30T12:03:26.744+08:00] screenshotBase64 end
+[2025-12-30T12:03:26.745+08:00] adb getScreenDensity 
+[2025-12-30T12:03:26.852+08:00] adb getScreenDensity  end
+[2025-12-30T12:03:26.852+08:00] Initialized device pixel ratio: 3
+[2025-12-30T12:03:30.854+08:00] screenshotBase64 begin
+[2025-12-30T12:03:30.854+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:30.854+08:00] adb takeScreenshot 
+[2025-12-30T12:03:31.366+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:31.366+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:31.366+08:00] Converting to base64
+[2025-12-30T12:03:31.366+08:00] screenshotBase64 end
+[2025-12-30T12:03:31.716+08:00] adb push D:\AI_TEST_Midscene\node_modules\@midscene\android\bin\yadb /data/local/tmp
+[2025-12-30T12:03:31.901+08:00] adb push D:\AI_TEST_Midscene\node_modules\@midscene\android\bin\yadb /data/local/tmp end
+[2025-12-30T12:03:31.901+08:00] adb shell input swipe 477 534 477 534 150
+[2025-12-30T12:03:32.456+08:00] adb shell input swipe 477 534 477 534 150 end
+[2025-12-30T12:03:32.456+08:00] adb clearTextField 100
+[2025-12-30T12:03:33.404+08:00] adb clearTextField 100 end
+[2025-12-30T12:03:33.405+08:00] adb isSoftKeyboardPresent 
+[2025-12-30T12:03:33.496+08:00] adb isSoftKeyboardPresent  end
+[2025-12-30T12:03:33.497+08:00] adb inputText Headphones
+[2025-12-30T12:03:33.844+08:00] adb inputText Headphones end
+[2025-12-30T12:03:33.844+08:00] adb isSoftKeyboardPresent 
+[2025-12-30T12:03:33.950+08:00] adb isSoftKeyboardPresent  end
+[2025-12-30T12:03:33.950+08:00] adb keyevent 111
+[2025-12-30T12:03:34.262+08:00] adb keyevent 111 end
+[2025-12-30T12:03:34.369+08:00] adb isSoftKeyboardPresent 
+[2025-12-30T12:03:34.440+08:00] adb isSoftKeyboardPresent  end
+[2025-12-30T12:03:34.547+08:00] adb isSoftKeyboardPresent 
+[2025-12-30T12:03:34.645+08:00] adb isSoftKeyboardPresent  end
+[2025-12-30T12:03:34.758+08:00] adb isSoftKeyboardPresent 
+[2025-12-30T12:03:34.848+08:00] adb isSoftKeyboardPresent  end
+[2025-12-30T12:03:34.959+08:00] adb isSoftKeyboardPresent 
+[2025-12-30T12:03:35.052+08:00] adb isSoftKeyboardPresent  end
+[2025-12-30T12:03:35.152+08:00] adb isSoftKeyboardPresent 
+[2025-12-30T12:03:35.257+08:00] adb isSoftKeyboardPresent  end
+[2025-12-30T12:03:35.363+08:00] adb isSoftKeyboardPresent 
+[2025-12-30T12:03:35.456+08:00] adb isSoftKeyboardPresent  end
+[2025-12-30T12:03:35.456+08:00] Keyboard still shown after keycode 111, trying next key
+[2025-12-30T12:03:35.456+08:00] adb keyevent 4
+[2025-12-30T12:03:35.787+08:00] adb keyevent 4 end
+[2025-12-30T12:03:35.893+08:00] adb isSoftKeyboardPresent 
+[2025-12-30T12:03:35.986+08:00] adb isSoftKeyboardPresent  end
+[2025-12-30T12:03:35.986+08:00] Keyboard hidden successfully with keycode 4
+[2025-12-30T12:03:36.292+08:00] screenshotBase64 begin
+[2025-12-30T12:03:36.292+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:36.292+08:00] adb takeScreenshot 
+[2025-12-30T12:03:36.737+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:36.737+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:36.737+08:00] Converting to base64
+[2025-12-30T12:03:36.737+08:00] screenshotBase64 end
+[2025-12-30T12:03:40.372+08:00] screenshotBase64 begin
+[2025-12-30T12:03:40.372+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:40.372+08:00] adb takeScreenshot 
+[2025-12-30T12:03:40.837+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:40.837+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:40.837+08:00] Converting to base64
+[2025-12-30T12:03:40.837+08:00] screenshotBase64 end
+[2025-12-30T12:03:41.185+08:00] adb shell input swipe 975 495 975 495 150
+[2025-12-30T12:03:41.781+08:00] adb shell input swipe 975 495 975 495 150 end
+[2025-12-30T12:03:42.085+08:00] screenshotBase64 begin
+[2025-12-30T12:03:42.085+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:42.085+08:00] adb takeScreenshot 
+[2025-12-30T12:03:42.498+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:42.498+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:42.498+08:00] Converting to base64
+[2025-12-30T12:03:42.498+08:00] screenshotBase64 end
+[2025-12-30T12:03:42.626+08:00] screenshotBase64 begin
+[2025-12-30T12:03:42.626+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:42.626+08:00] adb takeScreenshot 
+[2025-12-30T12:03:42.997+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:42.998+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:42.998+08:00] Converting to base64
+[2025-12-30T12:03:42.998+08:00] screenshotBase64 end
+[2025-12-30T12:03:43.077+08:00] screenshotBase64 begin
+[2025-12-30T12:03:43.077+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:43.077+08:00] adb takeScreenshot 
+[2025-12-30T12:03:43.554+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:43.554+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:43.554+08:00] Converting to base64
+[2025-12-30T12:03:43.554+08:00] screenshotBase64 end
+[2025-12-30T12:03:46.101+08:00] screenshotBase64 begin
+[2025-12-30T12:03:46.101+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:46.101+08:00] adb takeScreenshot 
+[2025-12-30T12:03:46.521+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:46.521+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:46.521+08:00] Converting to base64
+[2025-12-30T12:03:46.521+08:00] screenshotBase64 end
+[2025-12-30T12:03:46.652+08:00] screenshotBase64 begin
+[2025-12-30T12:03:46.652+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:46.652+08:00] adb takeScreenshot 
+[2025-12-30T12:03:47.109+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:47.109+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:47.109+08:00] Converting to base64
+[2025-12-30T12:03:47.109+08:00] screenshotBase64 end
+[2025-12-30T12:03:50.319+08:00] screenshotBase64 begin
+[2025-12-30T12:03:50.319+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:50.319+08:00] adb takeScreenshot 
+[2025-12-30T12:03:50.839+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:50.839+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:50.839+08:00] Converting to base64
+[2025-12-30T12:03:50.840+08:00] screenshotBase64 end
+[2025-12-30T12:03:50.958+08:00] screenshotBase64 begin
+[2025-12-30T12:03:50.958+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:50.958+08:00] adb takeScreenshot 
+[2025-12-30T12:03:51.473+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:51.473+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:51.473+08:00] Converting to base64
+[2025-12-30T12:03:51.473+08:00] screenshotBase64 end
+[2025-12-30T12:03:54.200+08:00] screenshotBase64 begin
+[2025-12-30T12:03:54.200+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:54.200+08:00] adb takeScreenshot 
+[2025-12-30T12:03:54.701+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:54.701+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:54.701+08:00] Converting to base64
+[2025-12-30T12:03:54.701+08:00] screenshotBase64 end
+[2025-12-30T12:03:54.849+08:00] screenshotBase64 begin
+[2025-12-30T12:03:54.849+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:54.849+08:00] adb takeScreenshot 
+[2025-12-30T12:03:55.364+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:55.364+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:55.364+08:00] Converting to base64
+[2025-12-30T12:03:55.364+08:00] screenshotBase64 end
+[2025-12-30T12:03:55.418+08:00] screenshotBase64 begin
+[2025-12-30T12:03:55.418+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:55.418+08:00] adb takeScreenshot 
+[2025-12-30T12:03:55.934+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:55.934+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:55.934+08:00] Converting to base64
+[2025-12-30T12:03:55.935+08:00] screenshotBase64 end
+[2025-12-30T12:03:59.095+08:00] screenshotBase64 begin
+[2025-12-30T12:03:59.095+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:59.095+08:00] adb takeScreenshot 
+[2025-12-30T12:03:59.601+08:00] adb takeScreenshot  end
+[2025-12-30T12:03:59.601+08:00] adb.takeScreenshot completed
+[2025-12-30T12:03:59.601+08:00] Converting to base64
+[2025-12-30T12:03:59.601+08:00] screenshotBase64 end
+[2025-12-30T12:03:59.734+08:00] screenshotBase64 begin
+[2025-12-30T12:03:59.734+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:03:59.734+08:00] adb takeScreenshot 
+[2025-12-30T12:04:00.260+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:00.260+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:00.261+08:00] Converting to base64
+[2025-12-30T12:04:00.261+08:00] screenshotBase64 end
+[2025-12-30T12:04:00.322+08:00] screenshotBase64 begin
+[2025-12-30T12:04:00.322+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:00.322+08:00] adb takeScreenshot 
+[2025-12-30T12:04:00.815+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:00.815+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:00.815+08:00] Converting to base64
+[2025-12-30T12:04:00.815+08:00] screenshotBase64 end
+[2025-12-30T12:04:04.697+08:00] screenshotBase64 begin
+[2025-12-30T12:04:04.697+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:04.697+08:00] adb takeScreenshot 
+[2025-12-30T12:04:05.198+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:05.198+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:05.198+08:00] Converting to base64
+[2025-12-30T12:04:05.198+08:00] screenshotBase64 end
+[2025-12-30T12:04:05.411+08:00] screenshotBase64 begin
+[2025-12-30T12:04:05.411+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:05.411+08:00] adb takeScreenshot 
+[2025-12-30T12:04:05.942+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:05.942+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:05.942+08:00] Converting to base64
+[2025-12-30T12:04:05.943+08:00] screenshotBase64 end
+[2025-12-30T12:04:05.998+08:00] screenshotBase64 begin
+[2025-12-30T12:04:05.998+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:05.998+08:00] adb takeScreenshot 
+[2025-12-30T12:04:06.500+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:06.500+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:06.500+08:00] Converting to base64
+[2025-12-30T12:04:06.501+08:00] screenshotBase64 end
+[2025-12-30T12:04:10.062+08:00] screenshotBase64 begin
+[2025-12-30T12:04:10.062+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:10.062+08:00] adb takeScreenshot 
+[2025-12-30T12:04:10.575+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:10.575+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:10.575+08:00] Converting to base64
+[2025-12-30T12:04:10.575+08:00] screenshotBase64 end
+[2025-12-30T12:04:10.732+08:00] screenshotBase64 begin
+[2025-12-30T12:04:10.732+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:10.732+08:00] adb takeScreenshot 
+[2025-12-30T12:04:11.249+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:11.249+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:11.249+08:00] Converting to base64
+[2025-12-30T12:04:11.250+08:00] screenshotBase64 end
+[2025-12-30T12:04:11.294+08:00] screenshotBase64 begin
+[2025-12-30T12:04:11.294+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:11.294+08:00] adb takeScreenshot 
+[2025-12-30T12:04:11.822+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:11.822+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:11.822+08:00] Converting to base64
+[2025-12-30T12:04:11.822+08:00] screenshotBase64 end
+[2025-12-30T12:04:17.553+08:00] screenshotBase64 begin
+[2025-12-30T12:04:17.553+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:17.553+08:00] adb takeScreenshot 
+[2025-12-30T12:04:18.064+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:18.064+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:18.064+08:00] Converting to base64
+[2025-12-30T12:04:18.065+08:00] screenshotBase64 end
+[2025-12-30T12:04:18.216+08:00] screenshotBase64 begin
+[2025-12-30T12:04:18.216+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:18.216+08:00] adb takeScreenshot 
+[2025-12-30T12:04:18.737+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:18.737+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:18.737+08:00] Converting to base64
+[2025-12-30T12:04:18.737+08:00] screenshotBase64 end
+[2025-12-30T12:04:20.418+08:00] screenshotBase64 begin
+[2025-12-30T12:04:20.418+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:20.418+08:00] adb takeScreenshot 
+[2025-12-30T12:04:20.928+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:20.928+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:20.928+08:00] Converting to base64
+[2025-12-30T12:04:20.928+08:00] screenshotBase64 end
+[2025-12-30T12:04:21.075+08:00] screenshotBase64 begin
+[2025-12-30T12:04:21.075+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:21.075+08:00] adb takeScreenshot 
+[2025-12-30T12:04:21.594+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:21.594+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:21.594+08:00] Converting to base64
+[2025-12-30T12:04:21.595+08:00] screenshotBase64 end
+[2025-12-30T12:04:21.640+08:00] screenshotBase64 begin
+[2025-12-30T12:04:21.640+08:00] Taking screenshot via adb.takeScreenshot
+[2025-12-30T12:04:21.640+08:00] adb takeScreenshot 
+[2025-12-30T12:04:22.145+08:00] adb takeScreenshot  end
+[2025-12-30T12:04:22.145+08:00] adb.takeScreenshot completed
+[2025-12-30T12:04:22.145+08:00] Converting to base64
+[2025-12-30T12:04:22.146+08:00] screenshotBase64 end

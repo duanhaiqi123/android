@@ -1,0 +1,93 @@
+android:
+  deviceId: '6HJDU19621023136'
+
+model:
+  provider: openai
+  apiKey: ${MIDSCENE_MODEL_API_KEY}
+  baseURL: ${MIDSCENE_MODEL_BASE_URL}
+  model: ${MIDSCENE_MODEL_NAME}
+# 缓存配置
+
+tasks:
+  # - name: 切到长辈版
+  #   flow:
+  #     - aiAct: 进首页，点击“长辈版”按钮
+  #     - sleep: 500
+  #     - aiAssert: 页面存在“常规版”文字
+  #     - aiAct: 点击“常规版”按钮
+  #     - sleep: 500
+  #     - aiAssert: 页面存在“长辈版”文字
+  # - name: 个切法，法切个
+  #   flow:
+  #     - aiAct: 进首页，点击“法人”按钮
+  #     - sleep: 500
+  #     - aiAssert: 页面存在“企业开办”文字
+  #     - aiAct: 点击“个人”按钮
+  #     - sleep: 500
+  #     - aiAssert: 页面存在“社保”文字
+  # - name: 首页-更多按钮
+  #   flow:
+  #     - aiAct: 进首页，点击“更多”按钮
+  #     - sleep: 500
+  #     - aiAssert: 页面存在“线上办”文字，没有企业相关的文字
+  #  - name: 首页-我的常用-个人已登录
+  #    flow:
+  #      - aiAct: 进首页，向下滚动页面，直到“我的常用”文字可见
+  #      - Tap: 点击“我的常用”按钮
+  #      - sleep: 500
+  #      - aiAct: 判断"我的常用"下，是否存在内容，无内容则报错
+  #      - aiAct: 点击右侧的“更多”按钮
+  #      - sleep: 500
+  #      - aiAssert: 跳转到了新页面，页面标题为“我的常用”文字
+  #      - aiAct: 返回到首页
+  #      - aiAct: 判断首页存在“我的常用”文字
+  #  - name: 首页-政务地图
+  #    flow:
+  #      - aiAct: 进首页，向下滚动页面，直到“政务地图”文字可见
+  #      - aiAct: 双击地图，地图可正常交互，无响应时报错
+  #      - sleep: 500
+  #      - aiAct: 缩放地图，地图可正常交互，无响应时报错
+  #      - sleep: 500
+  #      - aiAssert: 地图上存在“中南游乐城”文字
+  #      - aiAct: 点击右侧的“查看全部”按钮
+  #      - sleep: 500
+  #      - aiAct: 跳转到“线下办”页面，页面存在“中南游乐城”文字
+  #      - aiAct: 返回到首页
+  #      - aiAct: 判断首页存在“政务地图”文字
+  #  - name: 首页-政务地图
+  #    flow:
+  #      - aiAct: 进首页，向下滚动页面，直到“政务地图”文字可见
+  #      - aiAct: 双击地图，地图可正常交互，无响应时报错
+  #      - sleep: 500
+  #      - aiAct: 缩放地图，地图可正常交互，无响应时报错
+  #      - sleep: 500
+  #      - aiAssert: 地图上存在“中南游乐城”文字
+  #      - aiAct: 点击右侧的“查看全部”按钮
+  #      - sleep: 500
+  #      - aiAct: 跳转到“线下办”页面，页面存在“中南游乐城”文字
+  #      - aiAct: 返回到首页
+  #      - aiAct: 判断首页存在“政务地图”文字    
+    # - name: 首页-选择地区-西安
+    #   flow:
+    #     - aiAct: 测试站点切换功能
+    # - name: 互动页-切换个法
+    #   flow:
+    #     - Tap: 点击”互动“导航栏
+    #     - sleep: 500
+    #     - aiAssert: 页面存在“个人”相关信息
+    #     - Tap: 点击“法人”按钮
+    #     - sleep: 500
+    #     - aiAssert: 页面存在“法人”相关信息
+    - name: 办事页-个法切换
+      flow:
+        - Tap: 点击”办事“导航栏
+        - sleep: 500
+        - aiAssert: 存在线上办文字
+        - Tap: 点击“个人”选项卡
+        - sleep: 500
+        - aiAssert: 页面存在“按主题”“按人生事”“按部门”文字
+        - Tap: 点击“法人”选项卡
+        - sleep: 500
+        - aiAssert: 页面存在“按生命周期””按部门“文字
+
+

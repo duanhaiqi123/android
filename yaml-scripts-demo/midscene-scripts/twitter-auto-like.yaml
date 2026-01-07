@@ -1,0 +1,21 @@
+android:
+  deviceId: s4ey59ytbitot4yp
+
+tasks:
+  - name: like tweets
+    flow:
+      - aiAct: open x app
+      - aiAct: search 'midscene ai'
+      - aiAct: click the user called 'midscene ai'
+      - aiAct: click the first tweet
+      - aiAct: click the like button
+
+  - name: extract tweets info
+    flow:
+      - aiQuery: >
+          {time: string, content: string}[], return time and content of each tweet
+        name: tweets
+
+  - name: assert @midscene_ai account
+    flow:
+      - aiAssert: There is a @midscene_ai account on the page
