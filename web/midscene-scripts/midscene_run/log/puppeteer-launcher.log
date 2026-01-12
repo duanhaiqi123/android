@@ -1,0 +1,14 @@
+[2026-01-12T17:31:07.722+08:00] launching browser with viewport, headed true viewport { width: 1440, height: 768, deviceScaleFactor: 1 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"',
+  '--window-size=1440,868'
+] preference {
+  headed: true,
+  keepWindow: false,
+  testId: 'sauce-demo',
+  cache: undefined
+}
+[2026-01-12T17:31:10.046+08:00] goto https://www.saucedemo.com/
+[2026-01-12T17:31:11.760+08:00] waitForNetworkIdle 2000

@@ -6326,3 +6326,682 @@
 [2026-01-04T18:04:02.012+08:00] playing step 3, flowItem={"aiAct":"点击我的，页面中显示个人档案和婚姻登记证文字"}
 [2026-01-04T18:05:43.535+08:00] setting output by script path D:\AI_TEST_Midscene\midscene-example\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\Face_login-1767521143534.json
 [2026-01-04T18:05:43.761+08:00] playing step 0, flowItem={"aiAct":"首页存在“社保”文字"}
+[2026-01-12T10:10:39.015+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768183839014.json
+[2026-01-12T10:10:39.328+08:00] playing step 0, flowItem={"Tap":"点击”办事“导航栏"}
+[2026-01-12T10:10:39.329+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击”办事“导航栏",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:10:47.699+08:00] playing step 1, flowItem={"sleep":500}
+[2026-01-12T10:10:48.204+08:00] playing step 2, flowItem={"aiAssert":"存在线上办文字"}
+[2026-01-12T10:10:52.856+08:00] playing step 3, flowItem={"Tap":"点击“个人”选项卡"}
+[2026-01-12T10:10:52.857+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“个人”选项卡",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:10:58.537+08:00] playing step 4, flowItem={"sleep":500}
+[2026-01-12T10:10:59.044+08:00] playing step 5, flowItem={"aiAssert":"页面存在“按主题”“按人生事”“按部门”文字"}
+[2026-01-12T10:15:33.161+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768184133160.json
+[2026-01-12T10:15:33.383+08:00] playing step 0, flowItem={"Tap":"点击”办事“导航栏"}
+[2026-01-12T10:15:33.384+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击”办事“导航栏",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:15:39.244+08:00] playing step 1, flowItem={"sleep":500}
+[2026-01-12T10:15:39.761+08:00] playing step 2, flowItem={"aiAssert":"存在线上办文字"}
+[2026-01-12T10:15:43.786+08:00] playing step 3, flowItem={"Tap":"点击“法人”选项卡"}
+[2026-01-12T10:15:43.786+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“法人”选项卡",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:15:48.629+08:00] playing step 4, flowItem={"sleep":500}
+[2026-01-12T10:15:49.144+08:00] playing step 5, flowItem={"aiAssert":"页面存在“企业”，“生产经营”文字，无“按人生事”文字"}
+[2026-01-12T10:15:55.586+08:00] playing step 6, flowItem={"Tap":"点击“个人”选项卡"}
+[2026-01-12T10:15:55.587+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“个人”选项卡",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:16:00.491+08:00] playing step 7, flowItem={"sleep":500}
+[2026-01-12T10:16:00.998+08:00] playing step 8, flowItem={"aiAssert":"页面存在“按人生事”，“婚育”文字"}
+[2026-01-12T10:27:37.317+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768184857317.json
+[2026-01-12T10:27:37.650+08:00] playing step 0, flowItem={"Tap":"点击”按人生事“TAB"}
+[2026-01-12T10:27:37.650+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击”按人生事“TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:27:43.114+08:00] playing step 1, flowItem={"sleep":500}
+[2026-01-12T10:27:43.623+08:00] playing step 2, flowItem={"aiAssert":"页面加载完成，存在“工作”，“学习”，“婚育”文字"}
+[2026-01-12T10:27:48.422+08:00] playing step 3, flowItem={"Tap":"点击“按部门”TAB"}
+[2026-01-12T10:27:48.422+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按部门”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:27:53.490+08:00] playing step 4, flowItem={"sleep":500}
+[2026-01-12T10:27:53.999+08:00] playing step 5, flowItem={"aiAssert":"页面加载完成，存在“省医疗保障局”文字"}
+[2026-01-12T10:27:59.034+08:00] playing step 6, flowItem={"Tap":"点击“按主题”TAB"}
+[2026-01-12T10:27:59.034+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:28:04.428+08:00] playing step 7, flowItem={"sleep":500}
+[2026-01-12T10:28:04.931+08:00] playing step 8, flowItem={"aiAssert":"页面加载完成，存在“公积金”文字"}
+[2026-01-12T10:43:23.764+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768185803763.json
+[2026-01-12T10:43:23.978+08:00] playing step 0, flowItem={"Tap":"点击”按人生事“TAB"}
+[2026-01-12T10:43:23.979+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击”按人生事“TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:43:28.952+08:00] playing step 1, flowItem={"sleep":500}
+[2026-01-12T10:43:29.454+08:00] playing step 2, flowItem={"aiAssert":"页面加载完成，存在“工作”，“学习”，“婚育”文字"}
+[2026-01-12T10:43:33.984+08:00] playing step 3, flowItem={"Tap":"点击“按部门”TAB"}
+[2026-01-12T10:43:33.984+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按部门”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:43:38.794+08:00] playing step 4, flowItem={"sleep":500}
+[2026-01-12T10:43:39.295+08:00] playing step 5, flowItem={"aiAssert":"页面加载完成，存在“省医疗保障局”文字"}
+[2026-01-12T10:44:00.903+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768185840902.json
+[2026-01-12T10:44:01.124+08:00] playing step 0, flowItem={"Tap":"点击”按人生事“TAB"}
+[2026-01-12T10:44:01.125+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击”按人生事“TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T10:44:07.135+08:00] playing step 1, flowItem={"sleep":500}
+[2026-01-12T10:44:07.638+08:00] playing step 2, flowItem={"aiAssert":"页面加载完成，存在“工作”，“学习”，“婚育”文字"}
+[2026-01-12T10:46:33.371+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768185993370.json
+[2026-01-12T10:46:33.593+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市-浐灞国际港”"}
+[2026-01-12T10:46:47.707+08:00] playing step 1, flowItem={"sleep":500}
+[2026-01-12T10:47:15.256+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768186035256.json
+[2026-01-12T10:47:15.479+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市-浐灞国际港”"}
+[2026-01-12T10:48:05.931+08:00] playing step 1, flowItem={"sleep":500}
+[2026-01-12T10:50:35.272+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768186235272.json
+[2026-01-12T10:50:35.482+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市“，滚动当前页面到底，点击”浐灞国际港”"}
+[2026-01-12T10:50:55.074+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768186255074.json
+[2026-01-12T10:50:55.310+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市“，"}
+[2026-01-12T10:51:14.451+08:00] playing step 1, flowItem={"aiAct":"滚动当前页面到底，点击”浐灞国际港”"}
+[2026-01-12T10:54:52.944+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768186492944.json
+[2026-01-12T10:54:53.253+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市“，"}
+[2026-01-12T10:54:59.319+08:00] playing step 1, flowItem={"aiAct":"滚动当前页面到底部"}
+[2026-01-12T10:55:05.780+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768186505780.json
+[2026-01-12T10:55:05.992+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市“，"}
+[2026-01-12T10:55:57.412+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768186557412.json
+[2026-01-12T10:55:57.591+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市“，"}
+[2026-01-12T10:56:16.009+08:00] playing step 1, flowItem={"aiAct":"滚动当前页面到底部"}
+[2026-01-12T10:56:26.260+08:00] playing step 2, flowItem={"aiAct":"点击”浐灞国际港”选项"}
+[2026-01-12T10:56:41.922+08:00] playing step 3, flowItem={"sleep":500}
+[2026-01-12T11:06:47.062+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768187207062.json
+[2026-01-12T11:06:47.293+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市“，"}
+[2026-01-12T11:07:07.884+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768187227884.json
+[2026-01-12T11:07:08.081+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市“，"}
+[2026-01-12T11:07:21.202+08:00] playing step 1, flowItem={"aiAct":"滚动当前页面到底部"}
+[2026-01-12T11:07:33.024+08:00] playing step 2, flowItem={"aiAct":"点击”浐灞国际港”选项"}
+[2026-01-12T11:07:45.843+08:00] playing step 3, flowItem={"sleep":500}
+[2026-01-12T11:08:34.364+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768187314363.json
+[2026-01-12T11:08:34.569+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市-雁塔区”"}
+[2026-01-12T11:09:04.281+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768187344281.json
+[2026-01-12T11:09:04.498+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市-雁塔区”"}
+[2026-01-12T11:09:48.382+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768187388382.json
+[2026-01-12T11:09:48.603+08:00] playing step 0, flowItem={"aiAct":"切换站点到“陕西省-西安市-雁塔区”"}
+[2026-01-12T11:25:34.347+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768188334347.json
+[2026-01-12T11:25:34.607+08:00] playing step 0, flowItem={"aiAct":"站点切换，显示不同的办事数据"}
+[2026-01-12T11:27:34.455+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768188454454.json
+[2026-01-12T11:27:34.699+08:00] playing step 0, flowItem={"aiAct":"站点切换，显示不同的办事数据"}
+[2026-01-12T11:28:37.978+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768188517977.json
+[2026-01-12T11:28:38.211+08:00] playing step 0, flowItem={"aiAct":"站点切换，显示不同的办事数据"}
+[2026-01-12T11:49:37.310+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768189777310.json
+[2026-01-12T11:49:37.540+08:00] playing step 0, flowItem={"Tap":"点击按人生事"}
+[2026-01-12T11:49:37.541+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击按人生事",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T11:49:43.554+08:00] playing step 1, flowItem={"aiAct":"站点切换，显示不同的办事数据"}
+[2026-01-12T11:50:45.486+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768189845486.json
+[2026-01-12T11:50:45.720+08:00] playing step 0, flowItem={"Tap":"点击“按人生事”TAB"}
+[2026-01-12T11:50:45.721+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按人生事”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T11:50:50.783+08:00] playing step 1, flowItem={"aiAct":"站点切换，显示不同的办事数据"}
+[2026-01-12T11:51:36.780+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768189896779.json
+[2026-01-12T11:51:37.004+08:00] playing step 0, flowItem={"Tap":"点击“按人生事”TAB"}
+[2026-01-12T11:51:37.005+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按人生事”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T11:51:42.195+08:00] playing step 1, flowItem={"aiAct":"切换不同站点，显示不同的办事数据"}
+[2026-01-12T11:53:50.059+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768190030058.json
+[2026-01-12T11:53:50.276+08:00] playing step 0, flowItem={"aiAct":"切换不同站点，显示不同的办事数据"}
+[2026-01-12T11:54:10.180+08:00] playing step 0, flowItem={"Tap":"点击“按人生事”TAB"}
+[2026-01-12T11:54:10.181+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按人生事”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T11:54:14.960+08:00] playing step 1, flowItem={"aiAct":"切换不同站点，显示不同的办事数据"}
+[2026-01-12T14:07:54.042+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768198074041.json
+[2026-01-12T14:07:54.293+08:00] playing step 0, flowItem={"aiAct":"切换不同站点，显示不同的办事数据"}
+[2026-01-12T14:08:12.185+08:00] playing step 0, flowItem={"Tap":"点击“按人生事”TAB"}
+[2026-01-12T14:08:12.186+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按人生事”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T14:08:16.697+08:00] playing step 1, flowItem={"aiAct":"切换不同站点，显示不同的办事数据"}
+[2026-01-12T14:16:45.965+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768198605965.json
+[2026-01-12T14:16:46.188+08:00] playing step 0, flowItem={"aiAct":"进办事页，点击“按主题”TAB"}
+[2026-01-12T14:17:00.645+08:00] playing step 1, flowItem={"sleep":500}
+[2026-01-12T14:17:01.158+08:00] playing step 2, flowItem={"aiAct":"切换不同站点，显示不同的办事数据"}
+[2026-01-12T14:17:20.466+08:00] playing step 3, flowItem={"sleep":500}
+[2026-01-12T14:17:20.978+08:00] playing step 4, flowItem={"aiAct":"切换左侧tab栏，显示不同的办事数据"}
+[2026-01-12T14:18:50.737+08:00] playing step 0, flowItem={"Tap":"点击“按人生事”TAB"}
+[2026-01-12T14:18:50.737+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按人生事”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T14:18:55.452+08:00] playing step 1, flowItem={"aiAct":"切换不同站点，显示不同的办事数据"}
+[2026-01-12T14:57:04.448+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768201024447.json
+[2026-01-12T14:57:04.679+08:00] playing step 0, flowItem={"Tap":"进办事页，点击“按主题”TAB"}
+[2026-01-12T14:57:04.680+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "进办事页，点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T14:57:09.953+08:00] playing step 1, flowItem={"Tap":"点击“陕西省”"}
+[2026-01-12T14:57:09.953+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“陕西省”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T14:57:14.207+08:00] playing step 2, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T14:57:14.207+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T14:57:40.451+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768201060450.json
+[2026-01-12T14:57:40.678+08:00] playing step 0, flowItem={"Tap":"进办事页，点击“按主题”TAB"}
+[2026-01-12T14:57:40.679+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "进办事页，点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T14:57:46.153+08:00] playing step 1, flowItem={"Tap":"点击“陕西省”"}
+[2026-01-12T14:57:46.153+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“陕西省”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T14:57:50.874+08:00] playing step 2, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T14:57:50.874+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T14:57:55.134+08:00] playing step 3, flowItem={"aiAct":"滚动到页面底部"}
+[2026-01-12T14:58:05.836+08:00] playing step 4, flowItem={"Tap":"点击“浐灞国际港”"}
+[2026-01-12T14:58:05.836+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“浐灞国际港”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:00:42.989+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768201242988.json
+[2026-01-12T15:00:43.220+08:00] playing step 0, flowItem={"Tap":"进办事页，点击“按主题”TAB"}
+[2026-01-12T15:00:43.221+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "进办事页，点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:00:48.224+08:00] playing step 1, flowItem={"Tap":"点击“陕西省”"}
+[2026-01-12T15:00:48.224+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“陕西省”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:00:53.935+08:00] playing step 2, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T15:00:53.936+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:00:58.552+08:00] playing step 3, flowItem={"runAdbShell":"input swipe 540 468 540 1872 1000"}
+[2026-01-12T15:00:58.552+08:00] matchedAction: RunAdbShell flowParams: "input swipe 540 468 540 1872 1000"
+[2026-01-12T15:01:01.611+08:00] playing step 4, flowItem={"Tap":"点击“浐灞国际港”"}
+[2026-01-12T15:01:01.611+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“浐灞国际港”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:03:10.552+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768201390552.json
+[2026-01-12T15:03:10.748+08:00] playing step 0, flowItem={"Tap":"进办事页，点击“按主题”TAB"}
+[2026-01-12T15:03:10.750+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "进办事页，点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:03:15.922+08:00] playing step 1, flowItem={"Tap":"点击“陕西省”"}
+[2026-01-12T15:03:15.922+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“陕西省”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:03:20.714+08:00] playing step 2, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T15:03:20.714+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:03:25.864+08:00] playing step 3, flowItem={"sleep":500}
+[2026-01-12T15:03:26.373+08:00] playing step 4, flowItem={"runAdbShell":"input swipe 540 468 540 2000 2000"}
+[2026-01-12T15:03:26.373+08:00] matchedAction: RunAdbShell flowParams: "input swipe 540 468 540 2000 2000"
+[2026-01-12T15:03:30.457+08:00] playing step 5, flowItem={"sleep":500}
+[2026-01-12T15:03:30.961+08:00] playing step 6, flowItem={"Tap":"点击“浐灞国际港”"}
+[2026-01-12T15:03:30.962+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“浐灞国际港”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:06:27.258+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768201587258.json
+[2026-01-12T15:06:27.504+08:00] playing step 0, flowItem={"Tap":"进办事页，点击“按主题”TAB"}
+[2026-01-12T15:06:27.505+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "进办事页，点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:06:33.018+08:00] playing step 1, flowItem={"Tap":"点击“陕西省”"}
+[2026-01-12T15:06:33.018+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“陕西省”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:06:38.316+08:00] playing step 2, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T15:06:38.316+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:06:42.935+08:00] playing step 3, flowItem={"sleep":500}
+[2026-01-12T15:06:43.444+08:00] playing step 4, flowItem={"runAdbShell":"input swipe 540 500 540 2500 1500"}
+[2026-01-12T15:06:43.444+08:00] matchedAction: RunAdbShell flowParams: "input swipe 540 500 540 2500 1500"
+[2026-01-12T15:06:47.042+08:00] playing step 5, flowItem={"sleep":1000}
+[2026-01-12T15:06:48.045+08:00] playing step 6, flowItem={"runAdbShell":"input swipe 540 500 540 2500 1500"}
+[2026-01-12T15:06:48.045+08:00] matchedAction: RunAdbShell flowParams: "input swipe 540 500 540 2500 1500"
+[2026-01-12T15:06:51.584+08:00] playing step 7, flowItem={"sleep":1000}
+[2026-01-12T15:06:52.593+08:00] playing step 8, flowItem={"runAdbShell":"input swipe 540 500 540 2500 1500"}
+[2026-01-12T15:06:52.593+08:00] matchedAction: RunAdbShell flowParams: "input swipe 540 500 540 2500 1500"
+[2026-01-12T15:06:56.186+08:00] playing step 9, flowItem={"sleep":1000}
+[2026-01-12T15:06:57.194+08:00] playing step 10, flowItem={"Tap":"点击“浐灞国际港”"}
+[2026-01-12T15:06:57.194+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“浐灞国际港”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:08:15.557+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768201695556.json
+[2026-01-12T15:08:15.805+08:00] playing step 0, flowItem={"Tap":"进办事页，点击“按主题”TAB"}
+[2026-01-12T15:08:15.806+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "进办事页，点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:08:21.636+08:00] playing step 1, flowItem={"Tap":"点击“陕西省”"}
+[2026-01-12T15:08:21.636+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“陕西省”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:08:26.002+08:00] playing step 2, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T15:08:26.002+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:08:30.706+08:00] playing step 3, flowItem={"sleep":500}
+[2026-01-12T15:08:31.216+08:00] playing step 4, flowItem={"aiAct":"滚动到页面底部,直到出现“浐灞国际港”文字"}
+[2026-01-12T15:09:07.789+08:00] playing step 5, flowItem={"sleep":1000}
+[2026-01-12T15:09:08.796+08:00] playing step 6, flowItem={"Tap":"点击“浐灞国际港”"}
+[2026-01-12T15:09:08.797+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“浐灞国际港”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:13:44.430+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768202024429.json
+[2026-01-12T15:13:44.657+08:00] playing step 0, flowItem={"Tap":"点击“按主题”TAB"}
+[2026-01-12T15:13:44.658+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:13:50.599+08:00] playing step 1, flowItem={"aiAct":"页面加载完成，存在“工伤康复申请确认”文字"}
+[2026-01-12T15:13:56.912+08:00] playing step 2, flowItem={"Tap":"点击“陕西省”"}
+[2026-01-12T15:13:56.913+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“陕西省”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:14:01.236+08:00] playing step 3, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T15:14:01.236+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:14:29.535+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768202069534.json
+[2026-01-12T15:14:29.754+08:00] playing step 0, flowItem={"Tap":"点击“按主题”TAB"}
+[2026-01-12T15:14:29.754+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:14:35.070+08:00] playing step 1, flowItem={"aiAct":"页面加载完成，存在“工伤康复申请确认”文字"}
+[2026-01-12T15:14:40.888+08:00] playing step 2, flowItem={"Tap":"点击“陕西省”"}
+[2026-01-12T15:14:40.888+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“陕西省”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:14:45.785+08:00] playing step 3, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T15:14:45.785+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:14:50.047+08:00] playing step 4, flowItem={"Tap":"点击“雁塔区”"}
+[2026-01-12T15:14:50.047+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“雁塔区”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:14:54.430+08:00] playing step 5, flowItem={"aiAct":"页面加载完成，不存在“工伤康复申请确认”文字"}
+[2026-01-12T15:58:34.280+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768204714280.json
+[2026-01-12T15:58:34.509+08:00] playing step 0, flowItem={"Tap":"点击“按主题”TAB"}
+[2026-01-12T15:58:34.510+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:58:40.049+08:00] playing step 1, flowItem={"aiAssert":"存在“工伤康复申请确认”文字"}
+[2026-01-12T15:58:44.154+08:00] playing step 2, flowItem={"Tap":"点击“陕西省”"}
+[2026-01-12T15:58:44.154+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“陕西省”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:58:48.726+08:00] playing step 3, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T15:58:48.726+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:59:32.751+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768204772750.json
+[2026-01-12T15:59:32.964+08:00] playing step 0, flowItem={"Tap":"点击“按主题”TAB"}
+[2026-01-12T15:59:32.965+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按主题”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:59:37.979+08:00] playing step 1, flowItem={"aiAssert":"存在“工伤康复申请确认”文字"}
+[2026-01-12T15:59:43.701+08:00] playing step 2, flowItem={"Tap":"点击“陕西省”"}
+[2026-01-12T15:59:43.701+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“陕西省”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:59:48.689+08:00] playing step 3, flowItem={"sleep":500}
+[2026-01-12T15:59:49.197+08:00] playing step 4, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T15:59:49.197+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:59:54.200+08:00] playing step 5, flowItem={"Tap":"点击“雁塔区”"}
+[2026-01-12T15:59:54.201+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“雁塔区”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T15:59:58.553+08:00] playing step 6, flowItem={"aiAct":"页面加载完成，不存在“工伤康复申请确认”文字"}
+[2026-01-12T16:00:04.314+08:00] playing step 7, flowItem={"Tap":"点击“婚育”"}
+[2026-01-12T16:00:04.314+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“婚育”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:00:08.747+08:00] playing step 8, flowItem={"aiAssert":"存在“育儿补贴申领”文字"}
+[2026-01-12T16:09:25.312+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768205365311.json
+[2026-01-12T16:09:25.560+08:00] playing step 0, flowItem={"Tap":"点击“按人生事”TAB"}
+[2026-01-12T16:09:25.561+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按人生事”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:09:30.588+08:00] playing step 1, flowItem={"aiAssert":"存在“出生医学证明信息核验”文字"}
+[2026-01-12T16:10:48.531+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768205448531.json
+[2026-01-12T16:10:48.772+08:00] playing step 0, flowItem={"Tap":"点击“按人生事”TAB"}
+[2026-01-12T16:10:48.772+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按人生事”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:10:53.986+08:00] playing step 1, flowItem={"aiAssert":"存在“出生医学证明信息核验”文字"}
+[2026-01-12T16:10:58.348+08:00] playing step 2, flowItem={"Tap":"点击“雁塔区”"}
+[2026-01-12T16:10:58.349+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“雁塔区”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:11:03.013+08:00] playing step 3, flowItem={"sleep":500}
+[2026-01-12T16:11:03.525+08:00] playing step 4, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T16:11:03.525+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:11:08.119+08:00] playing step 5, flowItem={"sleep":500}
+[2026-01-12T16:11:08.633+08:00] playing step 6, flowItem={"aiAct":"页面加载完成，不存在“出生医学证明信息核验”文字"}
+[2026-01-12T16:11:14.769+08:00] playing step 7, flowItem={"Tap":"点击“置业”"}
+[2026-01-12T16:11:14.769+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“置业”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:11:19.235+08:00] playing step 8, flowItem={"aiAssert":"存在“共有产权住房”文字"}
+[2026-01-12T16:36:31.631+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768206991630.json
+[2026-01-12T16:36:31.886+08:00] playing step 0, flowItem={"Tap":"点击“按部门”TAB"}
+[2026-01-12T16:36:31.887+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按部门”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:36:37.209+08:00] playing step 1, flowItem={"aiAssert":"存在“市城管局”文字"}
+[2026-01-12T16:37:20.428+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768207040427.json
+[2026-01-12T16:37:20.688+08:00] playing step 0, flowItem={"Tap":"点击“按部门”TAB"}
+[2026-01-12T16:37:20.688+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按部门”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:37:25.964+08:00] playing step 1, flowItem={"aiAssert":"存在“市城管局”文字"}
+[2026-01-12T16:37:52.052+08:00] setting output by script path D:\android\yaml-scripts-demo\midscene-scripts\midscene_run\output\old1-1768207072051.json
+[2026-01-12T16:37:52.281+08:00] playing step 0, flowItem={"Tap":"点击“按部门”TAB"}
+[2026-01-12T16:37:52.282+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“按部门”TAB",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:37:57.322+08:00] playing step 1, flowItem={"aiAssert":"存在“市城管局”文字"}
+[2026-01-12T16:38:01.263+08:00] playing step 2, flowItem={"Tap":"点击“西安市”"}
+[2026-01-12T16:38:01.263+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“西安市”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:38:05.707+08:00] playing step 3, flowItem={"sleep":500}
+[2026-01-12T16:38:06.223+08:00] playing step 4, flowItem={"Tap":"点击“碑林区”"}
+[2026-01-12T16:38:06.223+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“碑林区”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:38:10.550+08:00] playing step 5, flowItem={"sleep":500}
+[2026-01-12T16:38:11.064+08:00] playing step 6, flowItem={"aiAct":"页面加载完成，不存在“市城管局”文字，存在“碑林区人社局”文字"}
+[2026-01-12T16:38:19.021+08:00] playing step 7, flowItem={"Tap":"点击“碑林区人社局”"}
+[2026-01-12T16:38:19.021+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击“碑林区人社局”",
+    "deepThink": false,
+    "cacheable": true
+  }
+}
+[2026-01-12T16:38:23.404+08:00] playing step 8, flowItem={"sleep":500}
+[2026-01-12T16:38:23.914+08:00] playing step 9, flowItem={"aiAssert":"存在“碑林区人社局”，“失业登记”，“劳动保障违法行为投诉”文字"}
+[2026-01-12T16:38:28.674+08:00] playing step 10, flowItem={"Tap":"点击返回按钮"}
+[2026-01-12T16:38:28.674+08:00] matchedAction: Tap flowParams: {
+  "locate": {
+    "prompt": "点击返回按钮",
+    "deepThink": false,
+    "cacheable": true
+  }
+}

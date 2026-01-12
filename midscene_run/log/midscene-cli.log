@@ -1,0 +1,10 @@
+[2026-01-12T10:09:57.572+08:00] argv {
+  _: [ '.\\old.yaml' ],
+  headed: true,
+  '$0': 'C:\\Users\\PC\\AppData\\Roaming\\npm\\node_modules\\@midscene\\cli\\bin\\midscene'
+}
+[2026-01-12T10:10:11.190+08:00] argv {
+  _: [ '.\\old1.yaml' ],
+  headed: true,
+  '$0': 'C:\\Users\\PC\\AppData\\Roaming\\npm\\node_modules\\@midscene\\cli\\bin\\midscene'
+}

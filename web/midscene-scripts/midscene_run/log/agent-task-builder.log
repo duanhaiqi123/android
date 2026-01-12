@@ -1,0 +1,44 @@
+[2026-01-12T17:31:17.994+08:00] will prepend locate param for field action.type=Input param={"prompt":"Username input field","bbox":[562,160,864,188]} locatePlan={"type":"Locate","param":{"prompt":"Username input field","bbox":[562,160,864,188]},"thought":""} hasBbox=true
+[2026-01-12T17:31:18.054+08:00] executing action Input {
+  value: 'standard_user',
+  locate: {
+    rect: { left: 709, top: 170, width: 8, height: 8 },
+    center: [ 713, 174 ],
+    description: 'Username input field'
+  }
+} taskContext.element.center: 713,174
+[2026-01-12T17:31:18.054+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:31:18.055+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:31:18.264+08:00] calling action Input
+[2026-01-12T17:31:19.697+08:00] called action Input result: undefined
+[2026-01-12T17:31:20.008+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:31:20.231+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:31:24.395+08:00] will prepend locate param for field action.type=Input param={"prompt":"Password input field","bbox":[562,210,864,239]} locatePlan={"type":"Locate","param":{"prompt":"Password input field","bbox":[562,210,864,239]},"thought":""} hasBbox=true
+[2026-01-12T17:31:24.481+08:00] executing action Input {
+  value: 'secret_sauce',
+  locate: {
+    rect: { left: 709, top: 220, width: 8, height: 8 },
+    center: [ 713, 224 ],
+    description: 'Password input field'
+  }
+} taskContext.element.center: 713,224
+[2026-01-12T17:31:24.481+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:31:24.481+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:31:24.689+08:00] calling action Input
+[2026-01-12T17:31:25.995+08:00] called action Input result: undefined
+[2026-01-12T17:31:26.302+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:31:26.524+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:31:30.600+08:00] will prepend locate param for field action.type=Tap param={"prompt":"Login button","bbox":[572,300,867,349]} locatePlan={"type":"Locate","param":{"prompt":"Login button","bbox":[572,300,867,349]},"thought":""} hasBbox=true
+[2026-01-12T17:31:30.695+08:00] executing action Tap {
+  locate: {
+    rect: { left: 715, top: 320, width: 8, height: 8 },
+    center: [ 719, 324 ],
+    description: 'Login button'
+  }
+} taskContext.element.center: 719,324
+[2026-01-12T17:31:30.695+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:31:30.695+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:31:30.911+08:00] calling action Tap
+[2026-01-12T17:31:30.967+08:00] called action Tap result: undefined
+[2026-01-12T17:31:31.272+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:31:31.491+08:00] called "afterInvokeAction" for interface

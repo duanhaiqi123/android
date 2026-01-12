@@ -1,0 +1,4 @@
+[2026-01-12T17:31:07.718+08:00] setting output by config.output D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\output\sauce-demo-items.json
+[2026-01-12T17:31:13.687+08:00] playing step 0, flowItem={"aiAct":"type 'standard_user' in user name input, type 'secret_sauce' in password, click 'Login'"}
+[2026-01-12T17:31:32.088+08:00] playing step 0, flowItem={"aiQuery":"{name: string, price: number, actionBtnName: string}[], return item name, price and the action button name on the lower right corner of each item (like 'Remove')\n","name":"items"}
+[2026-01-12T17:31:43.317+08:00] playing step 1, flowItem={"aiAssert":"The price of 'Sauce Labs Fleece Jacket' is 49.99"}

@@ -1,0 +1,96 @@
+[2026-01-12T17:31:13.690+08:00] setting includeBboxInPlanning to true
+[2026-01-12T17:31:13.718+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:13.727+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:13.737+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:13.738+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:13.903+08:00] will get screenshot scale
+[2026-01-12T17:31:13.903+08:00] will get image info of base64
+[2026-01-12T17:31:14.053+08:00] image info of base64 done
+[2026-01-12T17:31:14.053+08:00] Computed screenshot scale 1 from screenshot width 1440 and page width 1440
+[2026-01-12T17:31:14.053+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:14.053+08:00] screenshot scale=1
+[2026-01-12T17:31:17.886+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:17.973+08:00] will get screenshot scale
+[2026-01-12T17:31:17.973+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:17.973+08:00] screenshot scale=1
+[2026-01-12T17:31:17.983+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:17.993+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:18.008+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:18.018+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:18.028+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:18.039+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:18.053+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:20.232+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:20.319+08:00] will get screenshot scale
+[2026-01-12T17:31:20.320+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:20.320+08:00] screenshot scale=1
+[2026-01-12T17:31:20.333+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:20.350+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:20.361+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:20.374+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:20.384+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:24.300+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:24.367+08:00] will get screenshot scale
+[2026-01-12T17:31:24.367+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:24.367+08:00] screenshot scale=1
+[2026-01-12T17:31:24.381+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:24.395+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:24.412+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:24.426+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:24.442+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:24.457+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:24.481+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:26.524+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:26.605+08:00] will get screenshot scale
+[2026-01-12T17:31:26.605+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:26.605+08:00] screenshot scale=1
+[2026-01-12T17:31:26.623+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:26.648+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:26.671+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:26.694+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:26.713+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:30.497+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:30.563+08:00] will get screenshot scale
+[2026-01-12T17:31:30.563+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:30.563+08:00] screenshot scale=1
+[2026-01-12T17:31:30.581+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:30.600+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:30.617+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:30.637+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:30.656+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:30.675+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:30.694+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:31.491+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:32.035+08:00] will get screenshot scale
+[2026-01-12T17:31:32.035+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:32.035+08:00] screenshot scale=1
+[2026-01-12T17:31:32.062+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:32.087+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:32.119+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:32.155+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:32.182+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:32.183+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:32.319+08:00] will get screenshot scale
+[2026-01-12T17:31:32.319+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:32.319+08:00] screenshot scale=1
+[2026-01-12T17:31:32.319+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:32.470+08:00] will get screenshot scale
+[2026-01-12T17:31:32.470+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:32.470+08:00] screenshot scale=1
+[2026-01-12T17:31:43.178+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:43.266+08:00] will get screenshot scale
+[2026-01-12T17:31:43.266+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:43.266+08:00] screenshot scale=1
+[2026-01-12T17:31:43.291+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:43.314+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:43.344+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:43.367+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:43.395+08:00] writeOutActionDumps D:\AI_TEST_Midscene\midscene-example\yaml-scripts-demo\midscene-scripts\midscene_run\report\sauce-demo-2026-01-12_17-31-13-bace3b10.html
+[2026-01-12T17:31:43.396+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:43.496+08:00] will get screenshot scale
+[2026-01-12T17:31:43.496+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:43.496+08:00] screenshot scale=1
+[2026-01-12T17:31:43.496+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:31:43.611+08:00] will get screenshot scale
+[2026-01-12T17:31:43.611+08:00] computedScreenshotScale 1
+[2026-01-12T17:31:43.611+08:00] screenshot scale=1

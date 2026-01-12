@@ -1,0 +1,4 @@
+[2026-01-12T17:31:17.884+08:00] model usage detail: {"prompt_tokens":3250,"completion_tokens":98,"total_tokens":3348,"prompt_tokens_details":{"image_tokens":1082,"text_tokens":2168},"completion_tokens_details":{"text_tokens":98}}
+[2026-01-12T17:31:24.300+08:00] model usage detail: {"prompt_tokens":4461,"completion_tokens":100,"total_tokens":4561,"prompt_tokens_details":{"image_tokens":2164,"text_tokens":2297},"completion_tokens_details":{"text_tokens":100}}
+[2026-01-12T17:31:30.496+08:00] model usage detail: {"prompt_tokens":4599,"completion_tokens":87,"total_tokens":4686,"prompt_tokens_details":{"image_tokens":2164,"text_tokens":2435},"completion_tokens_details":{"text_tokens":87}}
+[2026-01-12T17:31:43.175+08:00] model usage detail: {"prompt_tokens":1712,"completion_tokens":279,"total_tokens":1991,"prompt_tokens_details":{"image_tokens":1082,"text_tokens":630},"completion_tokens_details":{"text_tokens":279}}
