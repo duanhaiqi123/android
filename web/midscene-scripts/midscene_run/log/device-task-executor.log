@@ -160,3 +160,489 @@
     }
   ]
 }
+[2026-01-12T17:53:54.885+08:00] actionSpace for this interface is: Tap, RightClick, DoubleClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, LongPress, ClearInput, Navigate, Reload, GoBack, Print_Assert_Result
+[2026-01-12T17:53:59.032+08:00] planResult {
+  "log": "输入用户名 duanhaiqi",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "duanhaiqi",
+      "locate": {
+        "prompt": "用户名输入框",
+        "bbox": [
+          948,
+          238,
+          1388,
+          274
+        ]
+      }
+    }
+  },
+  "actions": [
+    {
+      "type": "Input",
+      "param": {
+        "value": "duanhaiqi",
+        "locate": {
+          "prompt": "用户名输入框",
+          "bbox": [
+            948,
+            238,
+            1388,
+            274
+          ]
+        }
+      }
+    }
+  ],
+  "rawResponse": "{\n  \"log\": \"输入用户名 duanhaiqi\",\n  \"more_actions_needed_by_instruction\": true,\n  \"action\": {\n    \"type\": \"Input\",\n    \"param\": {\n      \"value\": \"duanhaiqi\",\n      \"locate\": {\n        \"prompt\": \"用户名输入框\",\n        \"bbox\": [658, 310, 964, 357]\n      }\n    }\n  }\n}",
+  "usage": {
+    "prompt_tokens": 3250,
+    "completion_tokens": 96,
+    "total_tokens": 3346,
+    "cached_input": 0,
+    "time_cost": 4132,
+    "model_name": "qwen3-vl-plus",
+    "model_description": "qwen3-vl mode",
+    "intent": "default"
+  },
+  "yamlFlow": [
+    {
+      "aiInput": "",
+      "value": "duanhaiqi",
+      "locate": "用户名输入框"
+    }
+  ]
+}
+[2026-01-12T17:54:01.201+08:00] actionSpace for this interface is: Tap, RightClick, DoubleClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, LongPress, ClearInput, Navigate, Reload, GoBack, Print_Assert_Result
+[2026-01-12T17:54:05.818+08:00] planResult {
+  "log": "输入密码 Aa11111111",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "Aa11111111",
+      "locate": {
+        "prompt": "密码输入框",
+        "bbox": [
+          948,
+          328,
+          1388,
+          363
+        ]
+      }
+    }
+  },
+  "actions": [
+    {
+      "type": "Input",
+      "param": {
+        "value": "Aa11111111",
+        "locate": {
+          "prompt": "密码输入框",
+          "bbox": [
+            948,
+            328,
+            1388,
+            363
+          ]
+        }
+      }
+    }
+  ],
+  "rawResponse": "{\n  \"log\": \"输入密码 Aa11111111\",\n  \"more_actions_needed_by_instruction\": true,\n  \"action\": {\n    \"type\": \"Input\",\n    \"param\": {\n      \"value\": \"Aa11111111\",\n      \"locate\": {\n        \"prompt\": \"密码输入框\",\n        \"bbox\": [658, 427, 964, 473]\n      }\n    }\n  }\n}",
+  "usage": {
+    "prompt_tokens": 4459,
+    "completion_tokens": 108,
+    "total_tokens": 4567,
+    "cached_input": 0,
+    "time_cost": 4614,
+    "model_name": "qwen3-vl-plus",
+    "model_description": "qwen3-vl mode",
+    "intent": "default"
+  },
+  "yamlFlow": [
+    {
+      "aiInput": "",
+      "value": "Aa11111111",
+      "locate": "密码输入框"
+    }
+  ]
+}
+[2026-01-12T17:54:08.115+08:00] actionSpace for this interface is: Tap, RightClick, DoubleClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, LongPress, ClearInput, Navigate, Reload, GoBack, Print_Assert_Result
+[2026-01-12T17:54:12.306+08:00] planResult {
+  "log": "点击登录按钮",
+  "more_actions_needed_by_instruction": false,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "prompt": "登录按钮",
+        "bbox": [
+          948,
+          425,
+          1388,
+          462
+        ]
+      }
+    }
+  },
+  "actions": [
+    {
+      "type": "Tap",
+      "param": {
+        "locate": {
+          "prompt": "登录按钮",
+          "bbox": [
+            948,
+            425,
+            1388,
+            462
+          ]
+        }
+      }
+    }
+  ],
+  "rawResponse": "{\n  \"log\": \"点击登录按钮\",\n  \"more_actions_needed_by_instruction\": false,\n  \"action\": {\n    \"type\": \"Tap\",\n    \"param\": {\n      \"locate\": {\n        \"prompt\": \"登录按钮\",\n        \"bbox\": [658, 553, 964, 602]\n      }\n    }\n  }\n}",
+  "usage": {
+    "prompt_tokens": 4605,
+    "completion_tokens": 82,
+    "total_tokens": 4687,
+    "cached_input": 0,
+    "time_cost": 4187,
+    "model_name": "qwen3-vl-plus",
+    "model_description": "qwen3-vl mode",
+    "intent": "default"
+  },
+  "yamlFlow": [
+    {
+      "aiTap": "",
+      "locate": "登录按钮"
+    }
+  ]
+}
+[2026-01-12T17:56:11.090+08:00] actionSpace for this interface is: Tap, RightClick, DoubleClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, LongPress, ClearInput, Navigate, Reload, GoBack, Print_Assert_Result
+[2026-01-12T17:56:15.228+08:00] planResult {
+  "log": "输入用户名 gov_zhuangwujian",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "gov_zhuangwujian",
+      "locate": {
+        "prompt": "用户名输入框",
+        "bbox": [
+          948,
+          238,
+          1388,
+          273
+        ]
+      }
+    }
+  },
+  "actions": [
+    {
+      "type": "Input",
+      "param": {
+        "value": "gov_zhuangwujian",
+        "locate": {
+          "prompt": "用户名输入框",
+          "bbox": [
+            948,
+            238,
+            1388,
+            273
+          ]
+        }
+      }
+    }
+  ],
+  "rawResponse": "{\n  \"log\": \"输入用户名 gov_zhuangwujian\",\n  \"more_actions_needed_by_instruction\": true,\n  \"action\": {\n    \"type\": \"Input\",\n    \"param\": {\n      \"value\": \"gov_zhuangwujian\",\n      \"locate\": {\n        \"prompt\": \"用户名输入框\",\n        \"bbox\": [658, 310, 964, 356]\n      }\n    }\n  }\n}",
+  "usage": {
+    "prompt_tokens": 3255,
+    "completion_tokens": 102,
+    "total_tokens": 3357,
+    "cached_input": 0,
+    "time_cost": 4121,
+    "model_name": "qwen3-vl-plus",
+    "model_description": "qwen3-vl mode",
+    "intent": "default"
+  },
+  "yamlFlow": [
+    {
+      "aiInput": "",
+      "value": "gov_zhuangwujian",
+      "locate": "用户名输入框"
+    }
+  ]
+}
+[2026-01-12T17:56:18.143+08:00] actionSpace for this interface is: Tap, RightClick, DoubleClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, LongPress, ClearInput, Navigate, Reload, GoBack, Print_Assert_Result
+[2026-01-12T17:56:22.543+08:00] planResult {
+  "log": "输入密码 gov_zhuangwujian@123",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "gov_zhuangwujian@123",
+      "locate": {
+        "prompt": "密码输入框",
+        "bbox": [
+          948,
+          329,
+          1388,
+          365
+        ]
+      }
+    }
+  },
+  "actions": [
+    {
+      "type": "Input",
+      "param": {
+        "value": "gov_zhuangwujian@123",
+        "locate": {
+          "prompt": "密码输入框",
+          "bbox": [
+            948,
+            329,
+            1388,
+            365
+          ]
+        }
+      }
+    }
+  ],
+  "rawResponse": "{\n  \"log\": \"输入密码 gov_zhuangwujian@123\",\n  \"more_actions_needed_by_instruction\": true,\n  \"action\": {\n    \"type\": \"Input\",\n    \"param\": {\n      \"value\": \"gov_zhuangwujian@123\",\n      \"locate\": {\n        \"prompt\": \"密码输入框\",\n        \"bbox\": [658, 429, 964, 475]\n      }\n    }\n  }\n}",
+  "usage": {
+    "prompt_tokens": 4470,
+    "completion_tokens": 110,
+    "total_tokens": 4580,
+    "cached_input": 0,
+    "time_cost": 4398,
+    "model_name": "qwen3-vl-plus",
+    "model_description": "qwen3-vl mode",
+    "intent": "default"
+  },
+  "yamlFlow": [
+    {
+      "aiInput": "",
+      "value": "gov_zhuangwujian@123",
+      "locate": "密码输入框"
+    }
+  ]
+}
+[2026-01-12T17:56:25.775+08:00] actionSpace for this interface is: Tap, RightClick, DoubleClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, LongPress, ClearInput, Navigate, Reload, GoBack, Print_Assert_Result
+[2026-01-12T17:56:29.316+08:00] planResult {
+  "log": "点击登录按钮",
+  "more_actions_needed_by_instruction": false,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "prompt": "登录按钮",
+        "bbox": [
+          948,
+          425,
+          1388,
+          462
+        ]
+      }
+    }
+  },
+  "actions": [
+    {
+      "type": "Tap",
+      "param": {
+        "locate": {
+          "prompt": "登录按钮",
+          "bbox": [
+            948,
+            425,
+            1388,
+            462
+          ]
+        }
+      }
+    }
+  ],
+  "rawResponse": "{\n  \"log\": \"点击登录按钮\",\n  \"more_actions_needed_by_instruction\": false,\n  \"action\": {\n    \"type\": \"Tap\",\n    \"param\": {\n      \"locate\": {\n        \"prompt\": \"登录按钮\",\n        \"bbox\": [658, 553, 964, 602]\n      }\n    }\n  }\n}",
+  "usage": {
+    "prompt_tokens": 4618,
+    "completion_tokens": 82,
+    "total_tokens": 4700,
+    "cached_input": 0,
+    "time_cost": 3538,
+    "model_name": "qwen3-vl-plus",
+    "model_description": "qwen3-vl mode",
+    "intent": "default"
+  },
+  "yamlFlow": [
+    {
+      "aiTap": "",
+      "locate": "登录按钮"
+    }
+  ]
+}
+[2026-01-12T17:57:17.897+08:00] actionSpace for this interface is: Tap, RightClick, DoubleClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, LongPress, ClearInput, Navigate, Reload, GoBack, Print_Assert_Result
+[2026-01-12T17:57:23.939+08:00] planResult {
+  "log": "输入用户名 gov_zhuangwujian",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "gov_zhuangwujian",
+      "locate": {
+        "prompt": "用户名输入框",
+        "bbox": [
+          948,
+          238,
+          1388,
+          273
+        ]
+      }
+    }
+  },
+  "actions": [
+    {
+      "type": "Input",
+      "param": {
+        "value": "gov_zhuangwujian",
+        "locate": {
+          "prompt": "用户名输入框",
+          "bbox": [
+            948,
+            238,
+            1388,
+            273
+          ]
+        }
+      }
+    }
+  ],
+  "rawResponse": "{\n  \"log\": \"输入用户名 gov_zhuangwujian\",\n  \"more_actions_needed_by_instruction\": true,\n  \"action\": {\n    \"type\": \"Input\",\n    \"param\": {\n      \"value\": \"gov_zhuangwujian\",\n      \"locate\": {\n        \"prompt\": \"用户名输入框\",\n        \"bbox\": [658, 310, 964, 356]\n      }\n    }\n  }\n}",
+  "usage": {
+    "prompt_tokens": 3255,
+    "completion_tokens": 102,
+    "total_tokens": 3357,
+    "cached_input": 0,
+    "time_cost": 6032,
+    "model_name": "qwen3-vl-plus",
+    "model_description": "qwen3-vl mode",
+    "intent": "default"
+  },
+  "yamlFlow": [
+    {
+      "aiInput": "",
+      "value": "gov_zhuangwujian",
+      "locate": "用户名输入框"
+    }
+  ]
+}
+[2026-01-12T17:57:26.722+08:00] actionSpace for this interface is: Tap, RightClick, DoubleClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, LongPress, ClearInput, Navigate, Reload, GoBack, Print_Assert_Result
+[2026-01-12T17:57:30.212+08:00] planResult {
+  "log": "输入密码 gov_zhuangwujian@123",
+  "more_actions_needed_by_instruction": true,
+  "action": {
+    "type": "Input",
+    "param": {
+      "value": "gov_zhuangwujian@123",
+      "locate": {
+        "prompt": "密码输入框",
+        "bbox": [
+          948,
+          329,
+          1388,
+          365
+        ]
+      }
+    }
+  },
+  "actions": [
+    {
+      "type": "Input",
+      "param": {
+        "value": "gov_zhuangwujian@123",
+        "locate": {
+          "prompt": "密码输入框",
+          "bbox": [
+            948,
+            329,
+            1388,
+            365
+          ]
+        }
+      }
+    }
+  ],
+  "rawResponse": "{\n  \"log\": \"输入密码 gov_zhuangwujian@123\",\n  \"more_actions_needed_by_instruction\": true,\n  \"action\": {\n    \"type\": \"Input\",\n    \"param\": {\n      \"value\": \"gov_zhuangwujian@123\",\n      \"locate\": {\n        \"prompt\": \"密码输入框\",\n        \"bbox\": [658, 429, 964, 475]\n      }\n    }\n  }\n}",
+  "usage": {
+    "prompt_tokens": 4470,
+    "completion_tokens": 110,
+    "total_tokens": 4580,
+    "cached_input": 0,
+    "time_cost": 3486,
+    "model_name": "qwen3-vl-plus",
+    "model_description": "qwen3-vl mode",
+    "intent": "default"
+  },
+  "yamlFlow": [
+    {
+      "aiInput": "",
+      "value": "gov_zhuangwujian@123",
+      "locate": "密码输入框"
+    }
+  ]
+}
+[2026-01-12T17:57:33.437+08:00] actionSpace for this interface is: Tap, RightClick, DoubleClick, Hover, Input, KeyboardPress, Scroll, DragAndDrop, LongPress, ClearInput, Navigate, Reload, GoBack, Print_Assert_Result
+[2026-01-12T17:57:38.526+08:00] planResult {
+  "log": "点击登录按钮",
+  "more_actions_needed_by_instruction": false,
+  "action": {
+    "type": "Tap",
+    "param": {
+      "locate": {
+        "prompt": "登录按钮",
+        "bbox": [
+          948,
+          425,
+          1388,
+          462
+        ]
+      }
+    }
+  },
+  "actions": [
+    {
+      "type": "Tap",
+      "param": {
+        "locate": {
+          "prompt": "登录按钮",
+          "bbox": [
+            948,
+            425,
+            1388,
+            462
+          ]
+        }
+      }
+    }
+  ],
+  "rawResponse": "{\n  \"log\": \"点击登录按钮\",\n  \"more_actions_needed_by_instruction\": false,\n  \"action\": {\n    \"type\": \"Tap\",\n    \"param\": {\n      \"locate\": {\n        \"prompt\": \"登录按钮\",\n        \"bbox\": [658, 553, 964, 602]\n      }\n    }\n  }\n}",
+  "usage": {
+    "prompt_tokens": 4618,
+    "completion_tokens": 82,
+    "total_tokens": 4700,
+    "cached_input": 0,
+    "time_cost": 5086,
+    "model_name": "qwen3-vl-plus",
+    "model_description": "qwen3-vl mode",
+    "intent": "default"
+  },
+  "yamlFlow": [
+    {
+      "aiTap": "",
+      "locate": "登录按钮"
+    }
+  ]
+}

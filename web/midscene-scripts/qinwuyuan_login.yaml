@@ -1,0 +1,11 @@
+# login to sauce demo, extract the items info into a json file, and assert the price of 'Sauce Labs Fleece Jacket'
+
+web:
+  url: http://59.218.251.65:8081/bops/index.html#/login?szDevCode=true
+
+tasks:
+  - name: login
+    flow:
+      - aiAct: 输入账密：gov_zhuangwujian/gov_zhuangwujian@123,点击登录按钮
+      - sleep: 1000
+      - aiAssert: 存在“运营管理系统”文字

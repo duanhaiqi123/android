@@ -94,3 +94,216 @@
 [2026-01-12T17:31:43.611+08:00] will get screenshot scale
 [2026-01-12T17:31:43.611+08:00] computedScreenshotScale 1
 [2026-01-12T17:31:43.611+08:00] screenshot scale=1
+[2026-01-12T17:53:54.104+08:00] setting includeBboxInPlanning to true
+[2026-01-12T17:53:54.144+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:53:54.176+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:53:54.192+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:53:54.194+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:53:54.691+08:00] will get screenshot scale
+[2026-01-12T17:53:54.692+08:00] will get image info of base64
+[2026-01-12T17:53:54.884+08:00] image info of base64 done
+[2026-01-12T17:53:54.884+08:00] Computed screenshot scale 1 from screenshot width 1440 and page width 1440
+[2026-01-12T17:53:54.884+08:00] computedScreenshotScale 1
+[2026-01-12T17:53:54.884+08:00] screenshot scale=1
+[2026-01-12T17:53:59.032+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:53:59.124+08:00] will get screenshot scale
+[2026-01-12T17:53:59.124+08:00] computedScreenshotScale 1
+[2026-01-12T17:53:59.124+08:00] screenshot scale=1
+[2026-01-12T17:53:59.147+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:53:59.161+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:53:59.174+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:53:59.196+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:53:59.211+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:53:59.232+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:53:59.245+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:01.007+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:54:01.085+08:00] will get screenshot scale
+[2026-01-12T17:54:01.085+08:00] computedScreenshotScale 1
+[2026-01-12T17:54:01.085+08:00] screenshot scale=1
+[2026-01-12T17:54:01.104+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:01.128+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:01.156+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:01.172+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:01.200+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:05.818+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:54:05.896+08:00] will get screenshot scale
+[2026-01-12T17:54:05.896+08:00] computedScreenshotScale 1
+[2026-01-12T17:54:05.896+08:00] screenshot scale=1
+[2026-01-12T17:54:05.921+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:05.944+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:05.966+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:05.993+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:06.014+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:06.036+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:06.061+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:07.862+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:54:07.936+08:00] will get screenshot scale
+[2026-01-12T17:54:07.936+08:00] computedScreenshotScale 1
+[2026-01-12T17:54:07.936+08:00] screenshot scale=1
+[2026-01-12T17:54:07.971+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:08.012+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:08.049+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:08.084+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:08.115+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:12.306+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:54:12.381+08:00] will get screenshot scale
+[2026-01-12T17:54:12.381+08:00] computedScreenshotScale 1
+[2026-01-12T17:54:12.381+08:00] screenshot scale=1
+[2026-01-12T17:54:12.422+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:12.466+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:12.503+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:12.546+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:12.614+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:12.653+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:12.692+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-53-54-74706eb0.html
+[2026-01-12T17:54:13.507+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:54:13.686+08:00] will get screenshot scale
+[2026-01-12T17:56:10.579+08:00] setting includeBboxInPlanning to true
+[2026-01-12T17:56:10.616+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:10.625+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:10.641+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:10.642+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:56:10.958+08:00] will get screenshot scale
+[2026-01-12T17:56:10.958+08:00] will get image info of base64
+[2026-01-12T17:56:11.089+08:00] image info of base64 done
+[2026-01-12T17:56:11.089+08:00] Computed screenshot scale 1 from screenshot width 1440 and page width 1440
+[2026-01-12T17:56:11.089+08:00] computedScreenshotScale 1
+[2026-01-12T17:56:11.089+08:00] screenshot scale=1
+[2026-01-12T17:56:15.228+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:56:15.377+08:00] will get screenshot scale
+[2026-01-12T17:56:15.377+08:00] computedScreenshotScale 1
+[2026-01-12T17:56:15.377+08:00] screenshot scale=1
+[2026-01-12T17:56:15.393+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:15.408+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:15.426+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:15.439+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:15.454+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:15.468+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:15.484+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:17.972+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:56:18.050+08:00] will get screenshot scale
+[2026-01-12T17:56:18.050+08:00] computedScreenshotScale 1
+[2026-01-12T17:56:18.050+08:00] screenshot scale=1
+[2026-01-12T17:56:18.073+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:18.093+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:18.111+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:18.126+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:18.142+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:22.543+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:56:22.622+08:00] will get screenshot scale
+[2026-01-12T17:56:22.622+08:00] computedScreenshotScale 1
+[2026-01-12T17:56:22.622+08:00] screenshot scale=1
+[2026-01-12T17:56:22.653+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:22.677+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:22.700+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:22.725+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:22.751+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:22.773+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:22.801+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:25.536+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:56:25.619+08:00] will get screenshot scale
+[2026-01-12T17:56:25.619+08:00] computedScreenshotScale 1
+[2026-01-12T17:56:25.619+08:00] screenshot scale=1
+[2026-01-12T17:56:25.655+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:25.686+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:25.716+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:25.746+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:25.775+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:29.316+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:56:29.402+08:00] will get screenshot scale
+[2026-01-12T17:56:29.402+08:00] computedScreenshotScale 1
+[2026-01-12T17:56:29.402+08:00] screenshot scale=1
+[2026-01-12T17:56:29.452+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:29.496+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:29.540+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:29.592+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:29.655+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:29.691+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:29.737+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:31.104+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:56:31.351+08:00] will get screenshot scale
+[2026-01-12T17:56:31.351+08:00] computedScreenshotScale 1
+[2026-01-12T17:56:31.351+08:00] screenshot scale=1
+[2026-01-12T17:56:31.400+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:56:31.441+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-56-10-eb16a660.html
+[2026-01-12T17:57:17.435+08:00] setting includeBboxInPlanning to true
+[2026-01-12T17:57:17.461+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:17.469+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:17.480+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:17.481+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:57:17.788+08:00] will get screenshot scale
+[2026-01-12T17:57:17.788+08:00] will get image info of base64
+[2026-01-12T17:57:17.896+08:00] image info of base64 done
+[2026-01-12T17:57:17.896+08:00] Computed screenshot scale 1 from screenshot width 1440 and page width 1440
+[2026-01-12T17:57:17.896+08:00] computedScreenshotScale 1
+[2026-01-12T17:57:17.896+08:00] screenshot scale=1
+[2026-01-12T17:57:23.939+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:57:24.033+08:00] will get screenshot scale
+[2026-01-12T17:57:24.033+08:00] computedScreenshotScale 1
+[2026-01-12T17:57:24.033+08:00] screenshot scale=1
+[2026-01-12T17:57:24.051+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:24.065+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:24.081+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:24.093+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:24.105+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:24.119+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:24.132+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:26.549+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:57:26.632+08:00] will get screenshot scale
+[2026-01-12T17:57:26.632+08:00] computedScreenshotScale 1
+[2026-01-12T17:57:26.633+08:00] screenshot scale=1
+[2026-01-12T17:57:26.654+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:26.673+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:26.688+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:26.703+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:26.718+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:30.212+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:57:30.297+08:00] will get screenshot scale
+[2026-01-12T17:57:30.297+08:00] computedScreenshotScale 1
+[2026-01-12T17:57:30.297+08:00] screenshot scale=1
+[2026-01-12T17:57:30.322+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:30.348+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:30.374+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:30.404+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:30.427+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:30.451+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:30.473+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:33.219+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:57:33.293+08:00] will get screenshot scale
+[2026-01-12T17:57:33.293+08:00] computedScreenshotScale 1
+[2026-01-12T17:57:33.293+08:00] screenshot scale=1
+[2026-01-12T17:57:33.325+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:33.354+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:33.381+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:33.409+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:33.437+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:38.527+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:57:38.614+08:00] will get screenshot scale
+[2026-01-12T17:57:38.614+08:00] computedScreenshotScale 1
+[2026-01-12T17:57:38.614+08:00] screenshot scale=1
+[2026-01-12T17:57:38.653+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:38.687+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:38.724+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:38.772+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:38.806+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:38.855+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:38.900+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:40.798+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:57:40.913+08:00] will get screenshot scale
+[2026-01-12T17:57:40.913+08:00] computedScreenshotScale 1
+[2026-01-12T17:57:40.913+08:00] screenshot scale=1
+[2026-01-12T17:57:40.967+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:41.050+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:42.117+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:42.171+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:42.218+08:00] writeOutActionDumps D:\android\web\midscene-scripts\midscene_run\report\qinwuyuan_login-2026-01-12_17-57-17-1740a662.html
+[2026-01-12T17:57:42.218+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:57:42.311+08:00] will get screenshot scale
+[2026-01-12T17:57:42.311+08:00] computedScreenshotScale 1
+[2026-01-12T17:57:42.311+08:00] screenshot scale=1
+[2026-01-12T17:57:42.312+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:57:42.393+08:00] will get screenshot scale
+[2026-01-12T17:57:42.393+08:00] computedScreenshotScale 1
+[2026-01-12T17:57:42.393+08:00] screenshot scale=1
+[2026-01-12T17:57:44.618+08:00] Using page.getContext for action: undefined
+[2026-01-12T17:57:44.681+08:00] will get screenshot scale

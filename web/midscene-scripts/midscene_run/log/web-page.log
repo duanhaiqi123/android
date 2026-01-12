@@ -83,3 +83,198 @@
 [2026-01-12T17:31:43.506+08:00] waitForNavigation end
 [2026-01-12T17:31:43.506+08:00] screenshotBase64 begin
 [2026-01-12T17:31:43.611+08:00] screenshotBase64 end, cost: 105ms
+[2026-01-12T17:53:54.196+08:00] waitForNavigation begin
+[2026-01-12T17:53:54.196+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:53:54.225+08:00] waitForNavigation end
+[2026-01-12T17:53:54.225+08:00] screenshotBase64 begin
+[2026-01-12T17:53:54.688+08:00] screenshotBase64 end, cost: 463ms
+[2026-01-12T17:53:54.689+08:00] evaluate function begin
+[2026-01-12T17:53:54.691+08:00] evaluate function end
+[2026-01-12T17:53:59.032+08:00] waitForNavigation begin
+[2026-01-12T17:53:59.032+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:53:59.038+08:00] waitForNavigation end
+[2026-01-12T17:53:59.038+08:00] screenshotBase64 begin
+[2026-01-12T17:53:59.124+08:00] screenshotBase64 end, cost: 86ms
+[2026-01-12T17:53:59.450+08:00] clearInput begin
+[2026-01-12T17:53:59.450+08:00] mouse move to 1168, 256
+[2026-01-12T17:53:59.458+08:00] mouse click 1168, 256, left, 1
+[2026-01-12T17:53:59.608+08:00] keyboard press [ { key: 'Backspace' } ]
+[2026-01-12T17:53:59.615+08:00] clearInput end
+[2026-01-12T17:53:59.615+08:00] keyboard type duanhaiqi
+[2026-01-12T17:54:00.793+08:00] waitForNavigation begin
+[2026-01-12T17:54:00.793+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:54:00.800+08:00] waitForNavigation end
+[2026-01-12T17:54:01.007+08:00] waitForNavigation begin
+[2026-01-12T17:54:01.007+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:54:01.016+08:00] waitForNavigation end
+[2026-01-12T17:54:01.017+08:00] screenshotBase64 begin
+[2026-01-12T17:54:01.085+08:00] screenshotBase64 end, cost: 68ms
+[2026-01-12T17:54:05.818+08:00] waitForNavigation begin
+[2026-01-12T17:54:05.819+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:54:05.829+08:00] waitForNavigation end
+[2026-01-12T17:54:05.829+08:00] screenshotBase64 begin
+[2026-01-12T17:54:05.896+08:00] screenshotBase64 end, cost: 67ms
+[2026-01-12T17:54:06.265+08:00] clearInput begin
+[2026-01-12T17:54:06.265+08:00] mouse move to 1168, 345
+[2026-01-12T17:54:06.273+08:00] mouse click 1168, 345, left, 1
+[2026-01-12T17:54:06.388+08:00] keyboard press [ { key: 'Backspace' } ]
+[2026-01-12T17:54:06.391+08:00] clearInput end
+[2026-01-12T17:54:06.392+08:00] keyboard type Aa11111111
+[2026-01-12T17:54:07.652+08:00] waitForNavigation begin
+[2026-01-12T17:54:07.652+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:54:07.661+08:00] waitForNavigation end
+[2026-01-12T17:54:07.862+08:00] waitForNavigation begin
+[2026-01-12T17:54:07.862+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:54:07.867+08:00] waitForNavigation end
+[2026-01-12T17:54:07.867+08:00] screenshotBase64 begin
+[2026-01-12T17:54:07.935+08:00] screenshotBase64 end, cost: 68ms
+[2026-01-12T17:54:12.306+08:00] waitForNavigation begin
+[2026-01-12T17:54:12.306+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:54:12.314+08:00] waitForNavigation end
+[2026-01-12T17:54:12.314+08:00] screenshotBase64 begin
+[2026-01-12T17:54:12.381+08:00] screenshotBase64 end, cost: 67ms
+[2026-01-12T17:54:12.903+08:00] mouse move to 1168, 443
+[2026-01-12T17:54:12.905+08:00] mouse click 1168, 443, left, 1
+[2026-01-12T17:54:13.217+08:00] waitForNavigation begin
+[2026-01-12T17:54:13.217+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:54:13.285+08:00] waitForNavigation end
+[2026-01-12T17:54:13.507+08:00] waitForNavigation begin
+[2026-01-12T17:54:13.507+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:54:13.518+08:00] waitForNavigation end
+[2026-01-12T17:54:13.518+08:00] screenshotBase64 begin
+[2026-01-12T17:54:13.685+08:00] screenshotBase64 end, cost: 167ms
+[2026-01-12T17:56:10.644+08:00] waitForNavigation begin
+[2026-01-12T17:56:10.644+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:56:10.688+08:00] waitForNavigation end
+[2026-01-12T17:56:10.688+08:00] screenshotBase64 begin
+[2026-01-12T17:56:10.956+08:00] screenshotBase64 end, cost: 268ms
+[2026-01-12T17:56:10.957+08:00] evaluate function begin
+[2026-01-12T17:56:10.958+08:00] evaluate function end
+[2026-01-12T17:56:15.228+08:00] waitForNavigation begin
+[2026-01-12T17:56:15.228+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:56:15.259+08:00] waitForNavigation end
+[2026-01-12T17:56:15.259+08:00] screenshotBase64 begin
+[2026-01-12T17:56:15.377+08:00] screenshotBase64 end, cost: 118ms
+[2026-01-12T17:56:15.693+08:00] clearInput begin
+[2026-01-12T17:56:15.693+08:00] mouse move to 1168, 255
+[2026-01-12T17:56:15.715+08:00] mouse click 1168, 255, left, 1
+[2026-01-12T17:56:15.861+08:00] keyboard press [ { key: 'Backspace' } ]
+[2026-01-12T17:56:15.872+08:00] clearInput end
+[2026-01-12T17:56:15.872+08:00] keyboard type gov_zhuangwujian
+[2026-01-12T17:56:17.756+08:00] waitForNavigation begin
+[2026-01-12T17:56:17.756+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:56:17.764+08:00] waitForNavigation end
+[2026-01-12T17:56:17.972+08:00] waitForNavigation begin
+[2026-01-12T17:56:17.972+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:56:17.980+08:00] waitForNavigation end
+[2026-01-12T17:56:17.980+08:00] screenshotBase64 begin
+[2026-01-12T17:56:18.050+08:00] screenshotBase64 end, cost: 70ms
+[2026-01-12T17:56:22.543+08:00] waitForNavigation begin
+[2026-01-12T17:56:22.543+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:56:22.550+08:00] waitForNavigation end
+[2026-01-12T17:56:22.550+08:00] screenshotBase64 begin
+[2026-01-12T17:56:22.622+08:00] screenshotBase64 end, cost: 72ms
+[2026-01-12T17:56:23.009+08:00] clearInput begin
+[2026-01-12T17:56:23.009+08:00] mouse move to 1168, 347
+[2026-01-12T17:56:23.012+08:00] mouse click 1168, 347, left, 1
+[2026-01-12T17:56:23.135+08:00] keyboard press [ { key: 'Backspace' } ]
+[2026-01-12T17:56:23.141+08:00] clearInput end
+[2026-01-12T17:56:23.141+08:00] keyboard type gov_zhuangwujian@123
+[2026-01-12T17:56:25.324+08:00] waitForNavigation begin
+[2026-01-12T17:56:25.325+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:56:25.334+08:00] waitForNavigation end
+[2026-01-12T17:56:25.537+08:00] waitForNavigation begin
+[2026-01-12T17:56:25.537+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:56:25.544+08:00] waitForNavigation end
+[2026-01-12T17:56:25.544+08:00] screenshotBase64 begin
+[2026-01-12T17:56:25.619+08:00] screenshotBase64 end, cost: 75ms
+[2026-01-12T17:56:29.316+08:00] waitForNavigation begin
+[2026-01-12T17:56:29.316+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:56:29.322+08:00] waitForNavigation end
+[2026-01-12T17:56:29.322+08:00] screenshotBase64 begin
+[2026-01-12T17:56:29.402+08:00] screenshotBase64 end, cost: 80ms
+[2026-01-12T17:56:29.942+08:00] mouse move to 1168, 443
+[2026-01-12T17:56:29.946+08:00] mouse click 1168, 443, left, 1
+[2026-01-12T17:56:30.269+08:00] waitForNavigation begin
+[2026-01-12T17:56:30.270+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:56:30.675+08:00] waitForNavigation end
+[2026-01-12T17:56:31.104+08:00] waitForNavigation begin
+[2026-01-12T17:56:31.104+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:56:31.182+08:00] waitForNavigation end
+[2026-01-12T17:56:31.182+08:00] screenshotBase64 begin
+[2026-01-12T17:56:31.351+08:00] screenshotBase64 end, cost: 169ms
+[2026-01-12T17:57:17.482+08:00] waitForNavigation begin
+[2026-01-12T17:57:17.482+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:17.502+08:00] waitForNavigation end
+[2026-01-12T17:57:17.502+08:00] screenshotBase64 begin
+[2026-01-12T17:57:17.785+08:00] screenshotBase64 end, cost: 283ms
+[2026-01-12T17:57:17.785+08:00] evaluate function begin
+[2026-01-12T17:57:17.787+08:00] evaluate function end
+[2026-01-12T17:57:23.939+08:00] waitForNavigation begin
+[2026-01-12T17:57:23.939+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:23.949+08:00] waitForNavigation end
+[2026-01-12T17:57:23.950+08:00] screenshotBase64 begin
+[2026-01-12T17:57:24.033+08:00] screenshotBase64 end, cost: 83ms
+[2026-01-12T17:57:24.338+08:00] clearInput begin
+[2026-01-12T17:57:24.338+08:00] mouse move to 1168, 255
+[2026-01-12T17:57:24.341+08:00] mouse click 1168, 255, left, 1
+[2026-01-12T17:57:24.468+08:00] keyboard press [ { key: 'Backspace' } ]
+[2026-01-12T17:57:24.472+08:00] clearInput end
+[2026-01-12T17:57:24.472+08:00] keyboard type gov_zhuangwujian
+[2026-01-12T17:57:26.335+08:00] waitForNavigation begin
+[2026-01-12T17:57:26.335+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:26.344+08:00] waitForNavigation end
+[2026-01-12T17:57:26.549+08:00] waitForNavigation begin
+[2026-01-12T17:57:26.549+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:26.561+08:00] waitForNavigation end
+[2026-01-12T17:57:26.561+08:00] screenshotBase64 begin
+[2026-01-12T17:57:26.632+08:00] screenshotBase64 end, cost: 71ms
+[2026-01-12T17:57:30.212+08:00] waitForNavigation begin
+[2026-01-12T17:57:30.212+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:30.223+08:00] waitForNavigation end
+[2026-01-12T17:57:30.223+08:00] screenshotBase64 begin
+[2026-01-12T17:57:30.296+08:00] screenshotBase64 end, cost: 73ms
+[2026-01-12T17:57:30.682+08:00] clearInput begin
+[2026-01-12T17:57:30.682+08:00] mouse move to 1168, 347
+[2026-01-12T17:57:30.684+08:00] mouse click 1168, 347, left, 1
+[2026-01-12T17:57:30.801+08:00] keyboard press [ { key: 'Backspace' } ]
+[2026-01-12T17:57:30.804+08:00] clearInput end
+[2026-01-12T17:57:30.804+08:00] keyboard type gov_zhuangwujian@123
+[2026-01-12T17:57:32.999+08:00] waitForNavigation begin
+[2026-01-12T17:57:33.000+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:33.009+08:00] waitForNavigation end
+[2026-01-12T17:57:33.219+08:00] waitForNavigation begin
+[2026-01-12T17:57:33.219+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:33.230+08:00] waitForNavigation end
+[2026-01-12T17:57:33.230+08:00] screenshotBase64 begin
+[2026-01-12T17:57:33.293+08:00] screenshotBase64 end, cost: 63ms
+[2026-01-12T17:57:38.527+08:00] waitForNavigation begin
+[2026-01-12T17:57:38.527+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:38.535+08:00] waitForNavigation end
+[2026-01-12T17:57:38.535+08:00] screenshotBase64 begin
+[2026-01-12T17:57:38.614+08:00] screenshotBase64 end, cost: 79ms
+[2026-01-12T17:57:39.117+08:00] mouse move to 1168, 443
+[2026-01-12T17:57:39.122+08:00] mouse click 1168, 443, left, 1
+[2026-01-12T17:57:39.431+08:00] waitForNavigation begin
+[2026-01-12T17:57:39.431+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:39.442+08:00] waitForNavigation end
+[2026-01-12T17:57:40.799+08:00] waitForNavigation begin
+[2026-01-12T17:57:40.799+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:40.812+08:00] waitForNavigation end
+[2026-01-12T17:57:40.812+08:00] screenshotBase64 begin
+[2026-01-12T17:57:40.913+08:00] screenshotBase64 end, cost: 101ms
+[2026-01-12T17:57:42.218+08:00] waitForNavigation begin
+[2026-01-12T17:57:42.218+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:42.227+08:00] waitForNavigation end
+[2026-01-12T17:57:42.227+08:00] screenshotBase64 begin
+[2026-01-12T17:57:42.311+08:00] screenshotBase64 end, cost: 84ms
+[2026-01-12T17:57:42.312+08:00] waitForNavigation begin
+[2026-01-12T17:57:42.312+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:42.321+08:00] waitForNavigation end
+[2026-01-12T17:57:42.321+08:00] screenshotBase64 begin
+[2026-01-12T17:57:42.393+08:00] screenshotBase64 end, cost: 72ms
+[2026-01-12T17:57:44.618+08:00] waitForNavigation begin
+[2026-01-12T17:57:44.618+08:00] waitForNavigation timeout: 5000
+[2026-01-12T17:57:44.628+08:00] waitForNavigation end
+[2026-01-12T17:57:44.628+08:00] screenshotBase64 begin
+[2026-01-12T17:57:44.681+08:00] screenshotBase64 end, cost: 53ms

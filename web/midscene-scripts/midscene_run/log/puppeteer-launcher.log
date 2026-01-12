@@ -12,3 +12,45 @@
 }
 [2026-01-12T17:31:10.046+08:00] goto https://www.saucedemo.com/
 [2026-01-12T17:31:11.760+08:00] waitForNetworkIdle 2000
+[2026-01-12T17:53:46.427+08:00] launching browser with viewport, headed true viewport { width: 1440, height: 768, deviceScaleFactor: 1 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"',
+  '--window-size=1440,868'
+] preference {
+  headed: true,
+  keepWindow: false,
+  testId: 'qinwuyuan_login',
+  cache: undefined
+}
+[2026-01-12T17:53:47.686+08:00] goto http://59.218.251.65:8081/bops/index.html#/login?szDevCode=true
+[2026-01-12T17:53:53.269+08:00] waitForNetworkIdle 2000
+[2026-01-12T17:56:06.423+08:00] launching browser with viewport, headed true viewport { width: 1440, height: 768, deviceScaleFactor: 1 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"',
+  '--window-size=1440,868'
+] preference {
+  headed: true,
+  keepWindow: false,
+  testId: 'qinwuyuan_login',
+  cache: undefined
+}
+[2026-01-12T17:56:07.555+08:00] goto http://59.218.251.65:8081/bops/index.html#/login?szDevCode=true
+[2026-01-12T17:56:09.678+08:00] waitForNetworkIdle 2000
+[2026-01-12T17:57:12.419+08:00] launching browser with viewport, headed true viewport { width: 1440, height: 768, deviceScaleFactor: 1 } args [
+  '--disable-features=HttpsFirstBalancedModeAutoEnable',
+  '--disable-features=PasswordLeakDetection',
+  '--disable-save-password-bubble',
+  '--user-agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36"',
+  '--window-size=1440,868'
+] preference {
+  headed: true,
+  keepWindow: false,
+  testId: 'qinwuyuan_login',
+  cache: undefined
+}
+[2026-01-12T17:57:13.451+08:00] goto http://59.218.251.65:8081/bops/index.html#/login?szDevCode=true
+[2026-01-12T17:57:16.546+08:00] waitForNetworkIdle 2000

@@ -13,3 +13,18 @@
   headed: true,
   '$0': 'C:\\Users\\PC\\AppData\\Roaming\\npm\\node_modules\\@midscene\\cli\\bin\\midscene'
 }
+[2026-01-12T17:53:46.386+08:00] argv {
+  _: [ '.\\qinwuyuan_login.yaml' ],
+  headed: true,
+  '$0': 'C:\\Users\\PC\\AppData\\Roaming\\npm\\node_modules\\@midscene\\cli\\bin\\midscene'
+}
+[2026-01-12T17:56:06.381+08:00] argv {
+  _: [ '.\\qinwuyuan_login.yaml' ],
+  headed: true,
+  '$0': 'C:\\Users\\PC\\AppData\\Roaming\\npm\\node_modules\\@midscene\\cli\\bin\\midscene'
+}
+[2026-01-12T17:57:12.377+08:00] argv {
+  _: [ '.\\qinwuyuan_login.yaml' ],
+  headed: true,
+  '$0': 'C:\\Users\\PC\\AppData\\Roaming\\npm\\node_modules\\@midscene\\cli\\bin\\midscene'
+}

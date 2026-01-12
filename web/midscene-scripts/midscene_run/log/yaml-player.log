@@ -2,3 +2,12 @@
 [2026-01-12T17:31:13.687+08:00] playing step 0, flowItem={"aiAct":"type 'standard_user' in user name input, type 'secret_sauce' in password, click 'Login'"}
 [2026-01-12T17:31:32.088+08:00] playing step 0, flowItem={"aiQuery":"{name: string, price: number, actionBtnName: string}[], return item name, price and the action button name on the lower right corner of each item (like 'Remove')\n","name":"items"}
 [2026-01-12T17:31:43.317+08:00] playing step 1, flowItem={"aiAssert":"The price of 'Sauce Labs Fleece Jacket' is 49.99"}
+[2026-01-12T17:53:46.423+08:00] setting output by script path D:\android\web\midscene-scripts\midscene_run\output\qinwuyuan_login-1768211626422.json
+[2026-01-12T17:53:54.100+08:00] playing step 0, flowItem={"aiAct":"输入账密：duanhaiqi/Aa11111111,点击登录按钮"}
+[2026-01-12T17:56:06.418+08:00] setting output by script path D:\android\web\midscene-scripts\midscene_run\output\qinwuyuan_login-1768211766417.json
+[2026-01-12T17:56:10.575+08:00] playing step 0, flowItem={"aiAct":"输入账密：gov_zhuangwujian/gov_zhuangwujian@123,点击登录按钮"}
+[2026-01-12T17:56:31.441+08:00] playing step 1, flowItem={"sleep":10000}
+[2026-01-12T17:57:12.414+08:00] setting output by script path D:\android\web\midscene-scripts\midscene_run\output\qinwuyuan_login-1768211832413.json
+[2026-01-12T17:57:17.430+08:00] playing step 0, flowItem={"aiAct":"输入账密：gov_zhuangwujian/gov_zhuangwujian@123,点击登录按钮"}
+[2026-01-12T17:57:41.051+08:00] playing step 1, flowItem={"sleep":1000}
+[2026-01-12T17:57:42.063+08:00] playing step 2, flowItem={"aiAssert":"存在“运营管理系统”文字"}

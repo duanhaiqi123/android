@@ -42,3 +42,135 @@
 [2026-01-12T17:31:30.967+08:00] called action Tap result: undefined
 [2026-01-12T17:31:31.272+08:00] will call "afterInvokeAction" for interface
 [2026-01-12T17:31:31.491+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:53:59.162+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[948,238,1388,274]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[948,238,1388,274]},"thought":""} hasBbox=true
+[2026-01-12T17:53:59.246+08:00] executing action Input {
+  value: 'duanhaiqi',
+  locate: {
+    rect: { left: 1164, top: 252, width: 8, height: 8 },
+    center: [ 1168, 256 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 1168,256
+[2026-01-12T17:53:59.246+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:53:59.246+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:53:59.449+08:00] calling action Input
+[2026-01-12T17:54:00.491+08:00] called action Input result: undefined
+[2026-01-12T17:54:00.793+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:54:01.006+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:54:05.944+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[948,328,1388,363]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[948,328,1388,363]},"thought":""} hasBbox=true
+[2026-01-12T17:54:06.061+08:00] executing action Input {
+  value: 'Aa11111111',
+  locate: {
+    rect: { left: 1164, top: 341, width: 8, height: 8 },
+    center: [ 1168, 345 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 1168,345
+[2026-01-12T17:54:06.061+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:54:06.061+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:54:06.265+08:00] calling action Input
+[2026-01-12T17:54:07.340+08:00] called action Input result: undefined
+[2026-01-12T17:54:07.651+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:54:07.862+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:54:12.466+08:00] will prepend locate param for field action.type=Tap param={"prompt":"登录按钮","bbox":[948,425,1388,462]} locatePlan={"type":"Locate","param":{"prompt":"登录按钮","bbox":[948,425,1388,462]},"thought":""} hasBbox=true
+[2026-01-12T17:54:12.693+08:00] executing action Tap {
+  locate: {
+    rect: { left: 1164, top: 439, width: 8, height: 8 },
+    center: [ 1168, 443 ],
+    description: '登录按钮'
+  }
+} taskContext.element.center: 1168,443
+[2026-01-12T17:54:12.693+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:54:12.693+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:54:12.902+08:00] calling action Tap
+[2026-01-12T17:54:12.916+08:00] called action Tap result: undefined
+[2026-01-12T17:54:13.217+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:54:13.506+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:56:15.409+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[948,238,1388,273]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[948,238,1388,273]},"thought":""} hasBbox=true
+[2026-01-12T17:56:15.485+08:00] executing action Input {
+  value: 'gov_zhuangwujian',
+  locate: {
+    rect: { left: 1164, top: 251, width: 8, height: 8 },
+    center: [ 1168, 255 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 1168,255
+[2026-01-12T17:56:15.485+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:56:15.485+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:56:15.693+08:00] calling action Input
+[2026-01-12T17:56:17.446+08:00] called action Input result: undefined
+[2026-01-12T17:56:17.756+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:56:17.972+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:56:22.678+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[948,329,1388,365]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[948,329,1388,365]},"thought":""} hasBbox=true
+[2026-01-12T17:56:22.802+08:00] executing action Input {
+  value: 'gov_zhuangwujian@123',
+  locate: {
+    rect: { left: 1164, top: 343, width: 8, height: 8 },
+    center: [ 1168, 347 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 1168,347
+[2026-01-12T17:56:22.802+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:56:22.802+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:56:23.009+08:00] calling action Input
+[2026-01-12T17:56:25.020+08:00] called action Input result: undefined
+[2026-01-12T17:56:25.324+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:56:25.536+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:56:29.496+08:00] will prepend locate param for field action.type=Tap param={"prompt":"登录按钮","bbox":[948,425,1388,462]} locatePlan={"type":"Locate","param":{"prompt":"登录按钮","bbox":[948,425,1388,462]},"thought":""} hasBbox=true
+[2026-01-12T17:56:29.738+08:00] executing action Tap {
+  locate: {
+    rect: { left: 1164, top: 439, width: 8, height: 8 },
+    center: [ 1168, 443 ],
+    description: '登录按钮'
+  }
+} taskContext.element.center: 1168,443
+[2026-01-12T17:56:29.738+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:56:29.738+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:56:29.941+08:00] calling action Tap
+[2026-01-12T17:56:29.958+08:00] called action Tap result: undefined
+[2026-01-12T17:56:30.269+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:56:31.103+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:57:24.066+08:00] will prepend locate param for field action.type=Input param={"prompt":"用户名输入框","bbox":[948,238,1388,273]} locatePlan={"type":"Locate","param":{"prompt":"用户名输入框","bbox":[948,238,1388,273]},"thought":""} hasBbox=true
+[2026-01-12T17:57:24.133+08:00] executing action Input {
+  value: 'gov_zhuangwujian',
+  locate: {
+    rect: { left: 1164, top: 251, width: 8, height: 8 },
+    center: [ 1168, 255 ],
+    description: '用户名输入框'
+  }
+} taskContext.element.center: 1168,255
+[2026-01-12T17:57:24.133+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:57:24.133+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:57:24.338+08:00] calling action Input
+[2026-01-12T17:57:26.031+08:00] called action Input result: undefined
+[2026-01-12T17:57:26.335+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:57:26.548+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:57:30.348+08:00] will prepend locate param for field action.type=Input param={"prompt":"密码输入框","bbox":[948,329,1388,365]} locatePlan={"type":"Locate","param":{"prompt":"密码输入框","bbox":[948,329,1388,365]},"thought":""} hasBbox=true
+[2026-01-12T17:57:30.474+08:00] executing action Input {
+  value: 'gov_zhuangwujian@123',
+  locate: {
+    rect: { left: 1164, top: 343, width: 8, height: 8 },
+    center: [ 1168, 347 ],
+    description: '密码输入框'
+  }
+} taskContext.element.center: 1168,347
+[2026-01-12T17:57:30.474+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:57:30.474+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:57:30.682+08:00] calling action Input
+[2026-01-12T17:57:32.697+08:00] called action Input result: undefined
+[2026-01-12T17:57:32.999+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:57:33.219+08:00] called "afterInvokeAction" for interface
+[2026-01-12T17:57:38.688+08:00] will prepend locate param for field action.type=Tap param={"prompt":"登录按钮","bbox":[948,425,1388,462]} locatePlan={"type":"Locate","param":{"prompt":"登录按钮","bbox":[948,425,1388,462]},"thought":""} hasBbox=true
+[2026-01-12T17:57:38.901+08:00] executing action Tap {
+  locate: {
+    rect: { left: 1164, top: 439, width: 8, height: 8 },
+    center: [ 1168, 443 ],
+    description: '登录按钮'
+  }
+} taskContext.element.center: 1168,443
+[2026-01-12T17:57:38.901+08:00] will call "beforeInvokeAction" for interface
+[2026-01-12T17:57:38.901+08:00] called "beforeInvokeAction" for interface
+[2026-01-12T17:57:39.117+08:00] calling action Tap
+[2026-01-12T17:57:39.130+08:00] called action Tap result: undefined
+[2026-01-12T17:57:39.431+08:00] will call "afterInvokeAction" for interface
+[2026-01-12T17:57:40.798+08:00] called "afterInvokeAction" for interface
