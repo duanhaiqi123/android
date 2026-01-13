@@ -1,0 +1,24 @@
+android:
+  #remoteAdbHost: '192.168.45.252'
+  #remoteAdbPort: 5555
+  deviceId: '6HJDU19621023136'
+
+model:
+  provider: openai
+  apiKey: ${MIDSCENE_MODEL_API_KEY}
+  baseURL: ${MIDSCENE_MODEL_BASE_URL}
+  model: ${MIDSCENE_MODEL_NAME}
+# 缓存配置
+
+tasks:
+  - name: 扫一扫-图片识别
+    flow:
+      - aiAct: 进首页，测试“扫一扫-从相册选择”功能
+      - sleep: 1600
+      - aiAssert: 扫码结果页标题为“服务访问拦截”
+  - name: 扫一扫-手电筒
+    flow:
+      - aiAct: 进首页,测试“扫一扫-打开手电筒”功能
+      - sleep: 500
+      - aiWaitFor: 温馨提示
+      - aiAct: 点击“关闭”按钮
